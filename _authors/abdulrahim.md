@@ -12,4 +12,3 @@ instagram_username: iabdul.295
 linkedin_username: abdul-rahim-53b182220
 medium_username: @abdulrahim2002
 ---
-

@@ -1,8 +1,8 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2023-07-19T23:48:05.000Z
 layout: post
-title: Abdul Rahim Website HI
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: Going places with Abdul Rahim
+subtitle: 'Take a deep breadth and dive into my world of misery.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
