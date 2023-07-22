@@ -22,9 +22,12 @@ body {
     height: rem(32px);
     line-height: rem(32px);
     
-    font-family: 'OPTIBodoni-Antiqua' , 'Arial', sans-serif;
-    src: url('../fonts/OPTIBodoni-Antiqua.otf') format('opentype'); // Use 'opentype' for OTF fonts
-    letter-spacing: 2px; /* Adjust the value to your preference */
+    @font-face {
+      font-family: 'OPTIBodoni-Antiqua', 'Roboto', 'Palatino Linotype', 'Times New Roman', Times, serif;
+      src: url('../fonts/OPTIBodoni-Antiqua.otf') format('opentype'),
+      url('../fonts/OPTIBodoni-Antiqua.woff2') format('woff2');
+      letter-spacing: 2px; /* Adjust the value to your preference */
+    }
 
     a {
       display: block;

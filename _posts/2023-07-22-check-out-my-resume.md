@@ -12,10 +12,10 @@ tags:
 author: abdulrahim
 ---
 
-# John Doe
+# Abdul Rahim
 
 ## About Me
-I am a highly motivated and enthusiastic individual with a passion for technology and a strong background in software development. I enjoy tackling complex problems and continuously learning new skills.
+Methodological in workstyle yet creative in thinking. 
 
 ## Education
 - **Bachelor of Science in Computer Science**

@@ -26,7 +26,7 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
-* **To bold text**, use `<strong>`.
+* **To bold text**, use `<strong>`. <strong>strong</strong>
 * *To italicize text*, use `<em>`.
 * Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
 * Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
