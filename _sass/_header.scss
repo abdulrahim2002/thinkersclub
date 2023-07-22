@@ -21,6 +21,10 @@ body {
     margin: 0;
     height: rem(32px);
     line-height: rem(32px);
+    
+    font-family: 'OPTIBodoni-Antiqua' , 'Arial', sans-serif;
+    src: url('../fonts/OPTIBodoni-Antiqua.otf') format('opentype'); // Use 'opentype' for OTF fonts
+    letter-spacing: 2px; /* Adjust the value to your preference */
 
     a {
       display: block;

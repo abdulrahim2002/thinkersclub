@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: ABDUL RAHIM 
+title: Abdul Rahim | Manifacturing Revolution
+description: The website hosts ideas in a bunch of fields.
 tags:
   - blog
   - template
@@ -29,12 +28,11 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: abdulrahim2002
+twitter_username: arkhan3123
+instagram_username: iabdul.295/
+linkedin_username: abdul-rahim-53b182220/
+medium_username: abdulrahim2002
 
 
 # Posts Settings
@@ -46,7 +44,7 @@ two_columns_layout: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://abdul-rahim.tech" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
@@ -61,12 +59,12 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
 paginate_content:
-  enabled: true
+  enabled: false
   debug: false
   collections:
     - posts
@@ -105,4 +103,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: 

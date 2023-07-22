@@ -1,8 +1,23 @@
+// @mixin mainFont($weight: 700) {
+//   font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
+//   font-weight: $weight;
+//   font-style: normal;
+// }
+
 @mixin mainFont($weight: 700) {
-  font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "EB Garamond", "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: $weight;
   font-style: normal;
 }
+
+// @mixin titleFont($weight: normal) {
+//   @font-face {
+//     font-family: 'OPTIBodoni-Antiqua', 'Arial', sans-serif;
+//     src: url('../fonts/OPTIBodoni-Antiqua.otf') format('opentype'); // Use 'opentype' for OTF fonts
+//     letter-spacing: 2px; /* Adjust the value to your preference */
+//     font-weight: $weight;
+//   }
+// }
 
 @mixin size($width: 30, $height: 30) {
   width: #{$width}px;

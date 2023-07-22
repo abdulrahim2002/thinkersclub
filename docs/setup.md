@@ -89,7 +89,7 @@ translations:
     message: "I'm sorry. We couldn't find the page you are looking for."
     image_alt: "404 - Page not found"
   contact:
-    title: "Talk to me"
+    title: "I'll get back to you soon"
     subject: "New contact!"
     submit_btn: "Send"
     placeholders:

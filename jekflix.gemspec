@@ -1,13 +1,13 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |spec|
-  spec.name          = "ThinkSprint"
+  spec.name          = "jekflix"
   spec.version       = "3.1.2"
   spec.authors       = ["Abdul Rahim"]
   spec.email         = ["arkhan3123@gmail.com"]
 
-  spec.summary       = "ThinkSprint, a place to speedrun science."
-  spec.homepage      = "https://abdulrahim2002.github.io/"
+  spec.summary       = "Manifacturing Revolution"
+  spec.homepage      = "https://jekflix.rossener.com/"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_(includes|layouts|sass)/|assets/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i) }

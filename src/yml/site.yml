@@ -1,6 +1,7 @@
-name: Insignia
-title: Abdul Rahim Articles | A website to share ideas.
-description: Sit back and take a deep dive into my mind. Dont be shy about reaching me out.
+name: Jekflix
+title: Jekflix | A blog theme for Jekyll
+description: Jekflix is a template for Jekyll inspired by Netflix and made by
+  Abdul Rahim.
 tags:
   - blog
   - template
@@ -17,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: arkhan3123@gmail.com
+email: youremail@test.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting

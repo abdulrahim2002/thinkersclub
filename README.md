@@ -1,3 +1,17 @@
+# Jekflix Template
+
+![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+
+See the [demo here](https://jekflix.rossener.com/).
+
+## What is it?
+
+A theme for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance.
+
+![Jekflix Screenshot Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1566390829/jekflix-screenshot-2_zfiog2.jpg)
+
+## Features
+
 - [Live Search](docs/features.md#live-search)
 - [Estimated Reading Time](docs/features.md#estimated-reading-time)
 - [Reading Progress Bar](docs/features.md#reading-progress-bar) *(optional)*
@@ -83,7 +97,7 @@ Below are some properties you can change in your project `_config.yml`, check th
 # Site Settings
 name: Jekflix
 title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+description: Jekflix is a template for Jekyll inspired by Netflix and made by Abdul Rahim.
 tags:
   - blog
   - template
@@ -199,7 +213,7 @@ File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/
 
 ## Author
 
-[Thiago Rossener](https://rossener.com/)
+[Abdul Rahim](https://rossener.com/)
 
 Do you like my work? Buy me a coffee!
 
