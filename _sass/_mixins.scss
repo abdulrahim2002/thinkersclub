@@ -10,6 +10,18 @@
   font-style: normal;
 }
 
+// @mixin logoFont($weight: 600){
+//   font-family: 'Playfair Display', serif;
+//   font-weight: $weight;
+//   letter-spacing: 2px;
+// }
+
+@mixin logoFont($weight: 300){
+  font-family: 'Montserrat', sans-serif;
+  font-weight: $weight;
+  // letter-spacing: 0.5px;
+}
+
 // @mixin titleFont($weight: normal) {
 //   @font-face {
 //     font-family: 'OPTIBodoni-Antiqua', 'Arial', sans-serif;
