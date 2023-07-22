@@ -17,7 +17,7 @@
 // }
 
 @mixin logoFont($weight: 300){
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Montserrat', Verdana, sans-serif;
   font-weight: $weight;
   // letter-spacing: 0.5px;
 }
