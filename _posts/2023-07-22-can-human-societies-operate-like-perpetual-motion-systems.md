@@ -18,6 +18,17 @@ Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, na
 
 Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
+<!-- <div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/GgjZIY2ZnBC?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/GgjZIY2ZnBC/embed" width="800" height="1000"></iframe>
+</div> -->
+<!-- Use the video tag for the video with the autoplay and loop attributes -->
+<!-- <video src="https://clipchamp.com/watch/GgjZIY2ZnBC" controls autoplay loop></video> -->
+
+
+
 ## Inline HTML elements
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
