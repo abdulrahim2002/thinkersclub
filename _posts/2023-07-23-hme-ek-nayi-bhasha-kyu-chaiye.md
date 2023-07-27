@@ -43,7 +43,7 @@ Academic literature devnagri hindi me translate karne me kuch problems hai:
 ![placeholder](https://res.cloudinary.com/dz48emek2/image/upload/v1690137337/wppqg55khjzxruunmkhl.png "matraye")
 Uske upar 1.5 lakh words ki vocabulary <sup>[3](#refrences)</sup>. Lekin koi bhi pure hindi nahi use karta, kyuki wo bohat complex hoti hai. For e.g. kya aap jante hai train ko pure hindi me kya kehte hai, लौहपथगामिनी<sup>[3](#refrences),[15](#refrences)</sup>. Latest research terms ko hindi me translate karna bohat mushkil hai, for e.g. Artificial Intelligence jiska hindi equvalent hai क्रत्रिम बुधि<sup>[3](#refrences)</sup>.
 
-2. Difficulty to write: Is post me jitne bhi hindi words ka use kia gya hai, unme se maine keyboard se koi bhi nahi likha. Kyuki almost sabhi computer keyboards english me hote hai. Mobiles par to phir bhi softwares a gye hai jo hindi letters provide karte hai, lakin zada tar scientific/academic kaam computers par hi hota hai. Agar apko hindi me words likhne hai to ye kaam bohat mushkil hai. Agar ham kal research hindi me bhi karne lag jaye to hme communicate karne me dikkat ayegi.
+2. Difficulty to write: Is post me jitne bhi hindi words ka use kia gya hai, unme se maine keyboard se koi bhi nahi likha. Kyuki almost sabhi computer keyboards english me hote hai. Mobiles par to phir bhi softwares a gye hai jo hindi letters provide karte hai, lekin zada tar scientific/academic kaam computers par hi hota hai. Agar apko hindi me words likhne hai to ye kaam bohat mushkil hai. Agar ham kal research hindi me bhi karne lag jaye to hme communicate karne me dikkat ayegi.
 
 3. Lack of vocabulary: Agar ham un cheezo ya concepts ki baat kare jo modern history me invent hue hai to aksar apko un cheezo ke lie koi word nahi milega. Jaise computer networks. Dictionaries apko कंप्यूटर नेटवर्क word dengi jo devnagri script me likha hua english word hai. Already aise 6.5 lakh words hindi definations mei hai<sup>[3](#refrences)</sup>.
 
@@ -109,7 +109,7 @@ Lekin sabse badi dikkat training data ki hai, online sources par aksar high qual
 Hm chahte hai ki aap hindi me quality articles likhe, isse hme training data milega. Aur hm ek aisa program banayenge jo iss kaam ko automate kar dega machine learning model ko use karke.
 
 ### Conclusion
-Is post me apko hindi std. padhne me mushkil hui hogi kyuki apko iski aadat nahi hogi, lekin jaise-jaise aur log isme bolna likhna, padhna suru karenge ye hme natural lagne lagegi. Ho sakta hai ki boht sare words ki spelling apko galat lagi hogi. Ek baar hm ye language standardise karde, ye sari problems solve hojengi. Mai chahunga ki aap, jis bhi subject me expert hai, hindi me articles likhe. Isse ek to hme training data milega aur dusra ham is revolution ko initiate karenge.
+Is post me apko hindi padhne me mushkil hui hogi kyuki apko iski aadat nahi hogi, lekin jaise-jaise aur log isme bolna likhna, padhna suru karenge ye hme natural lagne lagegi. Ho sakta hai ki boht sare words ki spelling apko galat lagi hogi. Ek baar hm ye language standardise karde, ye sari problems solve hojengi. Mai chahunga ki aap, jis bhi subject me expert hai, hindi me articles likhe. Isse ek to hme training data milega aur dusra ham is revolution ko initiate karenge.
 
 ### definations
 *  Diacritical marks: letters ki pronunciation change karne ke lie ya une dusre letters se differentiate karne ke lie jin symbols ya signs ka use kia jata hai inhe ham diacritical marks kehte hai. For example ä, ç, ñ etc.
