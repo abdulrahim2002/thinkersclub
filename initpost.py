@@ -47,6 +47,7 @@ title: "{title}"\n
 subtitle: {subtitle}\n
 description: {description}\n
 image: {image_url}\n
+# image should be 760, 399 and optimised should be 380, 200\n
 optimized_image: {optimized_image_url}\n
 category: {category}\n
 tags:
