@@ -23,7 +23,7 @@ Aap soch kar dekhie, agar koi science padhna chahta hai to  use ham pehle englis
 
 Hindi 450million log bolte hai, kya hum wikipedia aur books ki information ko hindi me translate nahi kar sakte taki sabke pas dunia ki sari information ka access ho.
 
-Dhyan rhe ki ham nyi bhasha nahi bana rhe(sorry for the title), lekin hindi ko english alphabet me standardise karne ki baat kar rhe hai. Note: Latin/English script<sup>[*](#definations)</sup> me likhi hindi ko Hinglish, Romanised hindi bhi kaha jata hai.
+Dhyan rhe ki ham koi nyi bhasha nahi bana rhe (sorry for the title), lekin hindi ko english alphabet me standardise karne ki baat kar rhe hai. Note: Latin/English script<sup>[*](#definations)</sup> me likhi hindi ko Hinglish, Romanised hindi bhi kaha jata hai.
 
 ### Hindi language me academic literature kyu
 China, Japan, France, Germany... Aap chaho to kisi bhi advanced country ko dekh lo, sabhi academics<sup>[*](#definations)</sup> apni mother tongue me likhte aur padhte hai. Kyu? taki vo apni general population ko bhi academic writings se expose kar paye. Aur yehi vajah hai ki ye countries itni kamyab hui hai.
@@ -50,7 +50,7 @@ Uske upar 1.5 lakh words ki vocabulary <sup>[3](#refrences)</sup>. Lekin koi bhi
 ### Kya aap english ko replace karna chahte hai
 English aaj global language hai. English bolne wale log india me zada ameer hai<sup>[1](#refrences)</sup>. Leking english ke sath problem ye hai ki, english me kaam karne wale hamare yaha ke log aksar english puri tarah se nahi samajte, isi lie vo aksar ye nahi dekh pate ki jo wo english me padh rhe hai uski kya significance hai.
 
-English me bohat sari intformation available hai, aur ye sari information translate karna hamare lie mushkil hoga. Lekin agar koi Latin hindi me padhta rhe to ek time ke baad usse kuch degree tak english aa jayegi, aur hopefully fir vo english literature par shift ho jayega. Iske peeche reason ye hai ki ham hindi-english, code-switched<sup>[4](#refrences),[*](#definations)</sup> language ko use kar rhe hai. To reader ek time ke baad khud english seekh jayega.
+English me bohat sari information available hai, aur ye sari information translate karna hamare lie mushkil hoga. Lekin agar koi Latin hindi me padhta rhe to ek time ke baad usse kuch degree tak english aa jayegi, aur hopefully fir vo english literature par shift ho jayega. Iske peeche reason ye hai ki ham hindi-english, code-switched<sup>[4](#refrences),[*](#definations)</sup> language ko use kar rhe hai. To reader ek time ke baad khud english seekh jayega.
 
 <!-- english alphabet hi kyu
 easy to write, 
@@ -68,13 +68,13 @@ Hunterian ka example:
 * With diacritics: mãĩ apne sambandhī se kārk͟hāne mẽ milā aur usne mujhe chāy pilāī. vo bāriś ke kāraṇ faslõ ko hue nuqsān kī vajah se cintit thā. maĩne use apnī k͟habar sunāī. kyõki mujhe nikalnā thā, isilie kuchh der bād mãĩne kṣhamā māṅgī aur vahā̃ se ravānā huā.
 * Without any diacritics: main apne sambandhi se karkhane men mila aur usne mujhe chay pilayi. wo barish ke karan faslon ko hue nuqsan ki vajah se chintit tha. maine use apni khabar sunayi. kyonki mujhe nikalna tha, isilie kuchh der bad maine kshama mangi aur vahan se ravana hua.
 
-Harvard kyoto<sup>[7](#refrences)</sup> system devnagri script use karne wali languages ko ASCII<sup>[17](#refrences)</sup> me map karne ke lie bana tha. Diacritics ki jagah ye upper-case letters ka istemal karta hai, phonetic details ko capture karne ke lie. Iss se first letter capatilization format follow nahi kia ja sakta aur, writing difficult ho jati hai aur readibility achi nahi hoti.
+Harvard kyoto<sup>[7](#refrences)</sup> system devnagri script use karne wali languages ko ASCII<sup>[17](#refrences)</sup> me map karne ke lie bana tha. Diacritics ki jagah ye upper-case letters ka istemal karta hai, phonetic details ko capture karne ke lie. Iss se first letter capatilization format follow nahi kia ja sakta, writing difficult ho jati hai aur readibility achi nahi hoti.
 
 International Alphabet of Sanskrit Transliteration(IAST)<sup>[8](#refrences)</sup>, lossless transliteration scheme hai jo diacritics ka istemal karta hai, scholars ise lossless aur phonetically acurate hone ki wajah se use karte hai.
 
 Velthuis<sup>[9](#refrences)</sup> transliteration scheme devnagri characters bhi ASCII me map karti hai. Ye scheme bhi capitalization ka istemal karti hai.
 
-Indian langauges TRANSliteration(ITRANS)<sup>[10](#refrences)</sup>. transliteration scheme bhi devnagri script ASCII me map karti hai. Isme bhi capitalization ka istemal kia gya hai.
+Indian langauges TRANSliteration(ITRANS)<sup>[10](#refrences)</sup>, transliteration scheme bhi devnagri script ASCII me map karti hai. Isme bhi capitalization ka istemal kia gya hai.
 
 Google translate hinglish se translate karne ka option deta hai lekin aksar uski quality kharab hoti hai, aur isme technology ka bhi fault nahi hai, uska reason ye hai ki ye language standardised hi nahi hai. Jiska matlab training data available nahi hai.<sup>[11](#refrences)</sup>.
 
@@ -83,13 +83,13 @@ Sabse pehle hm samajte hai ki Latin hindi me translate karne ke kya challenges h
 
 Challenges in Hindi(Latin):
 1. Log apne hisab se spelling likhte hai jiski wajah se spellings aksar inconsistent hoti hai. Kai log *gaana* likhte hai aur kai log *gana*<sup>[16](#refrences)</sup>.
-2. Hindi characters zada sounds support karti hai isi lie english alphabets se hindi ko puri tarah represent nahi kia ja sakta. For eg. english me **त** ke lie koi sound nahi hai. For eg. *तुर्की* ke lie english word hai *Turkey*, dhyan rhe **त** ban gaya **ट** kyuki english me त nahi hota.
+2. Hindi characters zada sounds support karti hai isi lie english alphabets se hindi ko puri tarah represent nahi kia ja sakta. For eg. english me **त** ke lie koi sound nahi hai. For eg. *तुर्की* ke lie english word hai *Turkey*, dhyan rhe **त** ban gaya **ट** kyuki english me **त** nahi hota.
 
-Devnagri hindi ki vocabulary ek government organisation decide karti hai, jab bhi koi naya word popular hota hai to vo log log use definations me add karte hai, agar word english ya foreign origin ka ho to vo log uska hindi equvalent sanskrit roots se derive karte hai. Spellings bhi strictly defined hoti hai<sup>[3](#refrences)</sup>.
+Devnagri hindi ki vocabulary ek government organisation decide karti hai, jab bhi koi naya word popular hota hai to vo log use definations me add karte hai, agar word english ya foreign origin ka ho to vo log uska hindi equvalent sanskrit roots se derive karte hai. Spellings bhi strictly defined hoti hai<sup>[3](#refrences)</sup>.
 
-Pehli problem solve karne ke lie, hm pehle boht sara text data collect karenge, usme ham algorithmically machine learning se vocabulary derive karenge. Jo spelling zada log use karenge (majority vote), vahi vocabulary me add hogi.
+Pehli problem solve karne ke lie, hm pehle boht sara text data collect karenge, usme ham algorithmically machine learning se vocabulary derive karenge. Jo spelling zada log use karenge (majority vote), vahi vocabulary/dictionary me add hogi.
 
-Jaisa hmne previous works me discuss kia, dusri problem solve karne ke lie traditionally diacritics ya capatilization ka use kia jata hai. Lekin isme problem ye hai ki zadatar indian population diacritics se familiar nahi hai. Characters ko selectively capatilize karne ki problem ye hai ki fir ham capitalization ko aur cheezo ke lie istemal nahi kar sakte jaise countries ke naam, lines ki suruvat. Likhne me dikkat aur bura dikhne wala text. 
+Jaisa hmne previous works me discuss kia, dusri problem solve karne ke lie traditionally diacritics ya capatilization ka use kia jata hai. Lekin isme problem ye hai ki zadatar indian population diacritics se familiar nahi hai. Characters ko selectively capatilize karne ki bhi apni problems hai jaise, likhne me dikkat aur bura dikhne wala text.
 
 Is problem ko solve karne ke lie ham characters ki pronunciation context par chod denge. Reader context aur word se samjhega ki uss word ko kaise pronunce karna chaiye. Note karo ki hm lossless tranliteration ko tradeoff kar rhe hai simplicity ke lie.
 
@@ -106,10 +106,10 @@ Hm machine learning aur natural language processing ki madad se english knowledg
 
 Lekin sabse badi dikkat training data ki hai, online sources par aksar high quality training data nahi hota jiski wajah se hamara model acha perform nahi karega. Hme **high quality training data** chaiye. Training data par frequency analysis karke vocabulary banegi.
 
-Hm chahte hai ki aap hindi me quality articles likhe, isse hme training data milega. Aur hm ek aisa program banayenge jo iss kaam ko automate kar dega machine learning model ko use karke.
+Hm chahte hai ki aap hindi me quality articles likho, isse hme training data milega. Aur hm ek aisa program banayenge jo iss kaam ko automate kar dega machine learning model ko use karke.
 
 ### Conclusion
-Is post me apko hindi padhne me mushkil hui hogi kyuki apko iski aadat nahi hogi, lekin jaise-jaise aur log isme bolna likhna, padhna suru karenge ye hme natural lagne lagegi. Ho sakta hai ki boht sare words ki spelling apko galat lagi hogi. Ek baar hm ye language standardise karde, ye sari problems solve hojengi. Mai chahunga ki aap, jis bhi subject me expert hai, hindi me articles likhe. Isse ek to hme training data milega aur dusra ham is revolution ko initiate karenge.
+Is post me apko hindi padhne me mushkil hui hogi kyuki apko iski aadat nahi hogi, lekin jaise-jaise aur log isme bolna, likhna, padhna suru karenge ye hme natural lagne lagegi. Ho sakta hai ki boht sare words ki spelling apko galat lagi hogi. Ek baar hm ye language standardise karde, ye sari problems solve hojengi. Mai chahunga ki aap, jis bhi subject me expert hai, hindi me articles likhe. Isse ek to hme training data milega aur dusra ham is revolution ko initiate karenge.
 
 ### definations
 *  Diacritical marks: letters ki pronunciation change karne ke lie ya une dusre letters se differentiate karne ke lie jin symbols ya signs ka use kia jata hai inhe ham diacritical marks kehte hai. For example ä, ç, ñ etc.
