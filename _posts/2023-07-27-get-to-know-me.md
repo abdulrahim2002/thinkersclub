@@ -2,9 +2,9 @@
 date: 2023-07-27T13:01:01.000Z
 layout: post
 
-title: "Sample Webpage Blog"
-subtitle: Sample Webpage Blog Post
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+title: "Get to know me"
+subtitle: Take a look at my portfolio
+description: Take a look at how i like to approach problems
 
 image: https://res.cloudinary.com/dz48emek2/image/upload/v1690015933/l0noglkpoqqdyfhzq5g2.png
 optimized_image: https://res.cloudinary.com/dz48emek2/image/upload/c_scale,w_380,h_200/l0noglkpoqqdyfhzq5g2

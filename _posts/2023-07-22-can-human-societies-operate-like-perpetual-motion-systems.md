@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Can human societies operate like Perpetual Motion Systems"
-subtitle: Can human societies operate like Perpetual Motion Systems Post
+subtitle: Can we turn earth into self sufficient energy system so we dont have to burn fossil fuels.
 description: In this article we try to look if we can make such systems which enable earth to act like self sufficient system without external energy source.
 image: https://res.cloudinary.com/dz48emek2/image/upload/v1690013204/sakvzzbjuwjihc5s4yg6.png
 optimized_image: https://res.cloudinary.com/dz48emek2/image/upload/c_scale,w_380,h_200/sakvzzbjuwjihc5s4yg6
