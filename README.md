@@ -167,14 +167,6 @@ plugins:
   - jekyll-paginate-content
 ```
 
-## Setup
-
-In the case you're cloning this repo, follow those instructions:
-
-- [Environment](docs/setup.md#environment)
-- [Installing template](docs/setup.md#installing-template)
-- [Running local](docs/setup.md#running-local)
-
 ### Customization
 
 See the [settings documentation](docs/settings.md#settings) to customize layout, titles, social media and more.
