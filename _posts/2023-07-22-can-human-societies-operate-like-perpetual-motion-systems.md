@@ -1,10 +1,11 @@
 ---
 layout: post
 title: "Can human societies operate like Perpetual Motion Systems"
-subtitle: Can we turn earth into self sufficient energy system so we dont have to burn fossil fuels.
-description: In this article we try to look if we can make such systems which enable earth to act like self sufficient system without external energy source.
-image: https://res.cloudinary.com/dz48emek2/image/upload/v1690013204/sakvzzbjuwjihc5s4yg6.png
-optimized_image: https://res.cloudinary.com/dz48emek2/image/upload/c_scale,w_380,h_200/sakvzzbjuwjihc5s4yg6
+subtitle: Can we transform Earth into a Self-Sufficient Energy System by recycling
+description: In this article we try to look if we can make such systems/technology that enable earth to act like self sufficient system without external energy source through possibly recycling.
+image: https://res.cloudinary.com/dz48emek2/image/upload/v1691000856/phgxvaat5jfy9ruf4da2.jpg
+optimized_image: https://res.cloudinary.com/dz48emek2/image/upload/c_scale,w_380/phgxvaat5jfy9ruf4da2
+# image should be 760, 399 and optimised should be 380, 200
 category: ideas
 tags:
   - climate change
@@ -12,7 +13,8 @@ tags:
 author: abdulrahim
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+### Introduction
+Since scientist have discovered global warming, climate change and the ill effects of human activity on the earth. The push for sustainable energy 
 
 > Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
 

@@ -1,17 +1,16 @@
 ---
-date: 2023-07-27T13:01:01.000Z
+# date: 2023-07-27T13:01:01.000Z
 layout: post
-
-title: "Get to know me"
+title: "Deriving work ethics from: The Bushido Code"
 subtitle: Take a look at my portfolio
-description: Take a look at how i like to approach problems
-
-image: https://res.cloudinary.com/dz48emek2/image/upload/v1690015933/l0noglkpoqqdyfhzq5g2.png
-optimized_image: https://res.cloudinary.com/dz48emek2/image/upload/c_scale,w_380,h_200/l0noglkpoqqdyfhzq5g2
+description: Inspired by Bushido and deep-rooted cultural values, the article delves into the principles of diligence, respect, and continuous improvement that shape Japan's exemplary work ethic
+image: https://res.cloudinary.com/dz48emek2/image/upload/v1690999860/y3woxqoxn3bd7k9znqeh.jpg
+optimized_image: https://res.cloudinary.com/dz48emek2/image/upload/c_auto,w_380/y3woxqoxn3bd7k9znqeh
+# image should be 760, 399 and optimised should be 380, 200
 category: work
 tags:
-  - resume
-  - tech
+  - japan
+  - bushido
 author: abdulrahim
 ---
 

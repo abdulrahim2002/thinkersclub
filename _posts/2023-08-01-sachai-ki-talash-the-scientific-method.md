@@ -25,7 +25,7 @@ Aksar hm opposite model ke khilaf logically argue karte hai, aur apne model ko l
 
 
 
-### Kya bakchodi ko falsify karne ka koi tareeka hai
+### Kya ko falsify karne ka koi tareeka hai
 
 
 ### Hypothesis
