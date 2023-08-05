@@ -167,14 +167,6 @@ plugins:
   - jekyll-paginate-content
 ```
 
-## Setup
-
-In the case you're cloning this repo, follow those instructions:
-
-- [Environment](docs/setup.md#environment)
-- [Installing template](docs/setup.md#installing-template)
-- [Running local](docs/setup.md#running-local)
-
 ### Customization
 
 See the [settings documentation](docs/settings.md#settings) to customize layout, titles, social media and more.
@@ -194,19 +186,3 @@ To see how your website is going to look like when you deploy it, run `bundle ex
 Use the [Front Matter properties](docs/post.md#front-matter-properties) to create posts.
 
 > **Note:** In the case you're cloning this repo, you can use the available [script](docs/post.md#creating-a-post) to generate posts automatically.
-
-## Questions?
-
-File a [GitHub issue](https://github.com/thiagorossener/jekflix-template/issues/new) please.
-
-## Author
-
-[Abdul Rahim](https://rossener.com/)
-
-Do you like my work? Buy me a coffee!
-
-<a href="https://www.buymeacoffee.com/thiagorossener" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-## License
-
-*Jekflix Template* is available under the MIT license. See the [LICENSE](https://github.com/thiagorossener/jekflix-template/blob/master/LICENSE) file for more info.
