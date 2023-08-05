@@ -1,5 +1,4 @@
 ---
-# date: 2023-07-27T13:01:01.000Z
 layout: post
 title: "Deriving work ethics from: The Bushido Code"
 subtitle: 武士道 The Bushido Code, Understanding Japanese code of conduct. And what can we learn from them?

@@ -1,6 +1,4 @@
 ---
-# date: 2023-08-01T22:10:19.000Z
-
 layout: post
 title: "In pursuit of truth: The scientific method"
 subtitle: Is there a universal method to proof or disproof a claim

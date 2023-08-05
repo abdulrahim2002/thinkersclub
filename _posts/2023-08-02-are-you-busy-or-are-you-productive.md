@@ -1,5 +1,4 @@
 ---
-# date: 2023-08-02T23:05:26.000Z
 layout: post
 title: "Are you busy or are you productive"
 subtitle: 5 proven ways to boost your productivity

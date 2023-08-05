@@ -48,6 +48,7 @@ subtitle: {subtitle}\n
 description: {description}\n
 image: {image_url}\n
 # image should be 760, 399 and optimised should be 380, 200\n
+# ![placeholder](http://link//to//image "description text")
 optimized_image: {optimized_image_url}\n
 category: {category}\n
 tags:

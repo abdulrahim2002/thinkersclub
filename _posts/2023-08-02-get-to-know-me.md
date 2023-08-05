@@ -1,6 +1,4 @@
 ---
-# date: 2023-08-02T21:27:14.000Z
-
 layout: post
 
 title: "Get to know me"
