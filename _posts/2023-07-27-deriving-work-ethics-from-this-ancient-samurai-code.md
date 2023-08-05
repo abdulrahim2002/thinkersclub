@@ -14,7 +14,7 @@ tags:
 author: abdulrahim
 ---
 
-## Introduction
+### Introduction
 Work ethic is a set of standards of behavior and beliefs that drives our attitude towards what is and what is not acceptable. It depends on our personal views, motivation, social, organizational, and cultural set-up. It’s a value based on the hard work and diligence and strengthens the belief in the moral benefit of work and its ability to enhance character. 
 
 Since the days of the Kamakura Shogunate near a millennium ago, the Bushodo code “way of the warrior” has been an integral part of Japanese culture. Bushido continues to contribute to the society and culture of Japan, which arguably also played a key role in the Japanese economic miracle. 
@@ -47,7 +47,7 @@ The concept of "Ganbaru" encapsulates the Japanese spirit of perseverance and re
 6. Humility and Humbleness:
 In Japanese culture, boasting or being overly confident is discouraged. Instead, individuals are encouraged to be humble and show modesty in their achievements. This humility fosters an environment of mutual respect and appreciation among colleagues.
 
-## Conclusion
+### Conclusion
 The work ethics inspired by Bushido and deeply rooted in Japanese culture provide invaluable lessons for the global workforce. The emphasis on loyalty, respect, diligence, teamwork, dedication, and continuous improvement has allowed Japan to build a reputation for efficiency, quality, and innovation. Embracing these principles can lead to a more fulfilling and harmonious work environment that fosters personal growth and organizational success.
 
 <!-- The work ethics inspired by Bushido and deeply rooted in Japanese culture provide invaluable lessons for the global workforce. Embracing principles of  can lead to a more fulfilling and harmonious work environment that fosters personal growth and organizational success. The Bushido code has left an indelible mark on Japanese culture, shaping their exceptional work ethic and contributing to their economic success. -->
