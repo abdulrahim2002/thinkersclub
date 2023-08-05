@@ -46,13 +46,10 @@ The scientific method is a rigorous and systematic approach that can be applied 
 2. Formulation of a Hypothesis: Formulate a testable hypothesis based on your questioning: "The presence of a money plant in a house is directly correlated with an increase in financial wealth."
 
 3. Prediction and Experimentation:
-
 Controlled Experiment: Design a controlled experiment by selecting two similar groups of people. One group will keep a money plant in their house, while the other won't. Ensure that both groups are comparable in terms of factors that could influence wealth, such as income, education, and job status.
-
 Data Collection: Over a predetermined period (e.g., a year), gather data on the financial status of both groups. Monitor changes in income, savings, investments, and other relevant indicators.
 
 4. Data Collection and Analysis:
-
 Quantitative Analysis: Analyze the collected data using appropriate statistical methods. Compare the financial progress of the two groups to identify any significant differences.
 
 5. Drawing Conclusions:
