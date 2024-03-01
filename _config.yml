@@ -1,7 +1,7 @@
 # Site Settings
 name: ABDUL RAHIM 
-title: Abdul Rahim | Continuous Improvement
-description: The website hosts ideas in a bunch of fields.
+title: Abdul Rahim | Blogs
+description: The website hosts blogs in a bunch of fields.
 tags:
   - blog
   - template
@@ -18,7 +18,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: arkhan3123@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -30,8 +30,8 @@ formspree_form_id: formspree_form_id
 # Remove the item if you don't need it
 github_username: abdulrahim2002
 twitter_username: arkhan3123
-instagram_username: iabdul.295/
-linkedin_username: abdul-rahim-53b182220/
+instagram_username: abdul.rahim.2002/
+linkedin_username: cseabdulrahim/
 medium_username: abdulrahim2002
 
 

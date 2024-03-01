@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Are you busy or are you productive"
-subtitle: 5 proven ways to boost your productivity
-description: Are you truly productive or merely entangled in the mirage of perpetual activity?
+title: "How to Turn Your Email from Time-Sink to Productivity-Booster"
+subtitle: Turn Your Email into Productivity-Booster
+description: Emails are an important part of business communication, and when used correctly allow us to correspond with colleagues and clients effectively. However, if not dealt with carefully, your inbox can quickly turn from a useful tool to a wasteful time-sink.
+
 image: https://res.cloudinary.com/dz48emek2/image/upload/v1690998553/mtavvtz3vwiwk7c0rfah.jpg
 # image should be 760, 399 and optimised should be 380, 200
 optimized_image: https://res.cloudinary.com/dz48emek2/image/upload/c_auto,w_380/mtavvtz3vwiwk7c0rfah
@@ -14,75 +15,80 @@ tags:
 author: abdulrahim
 ---
 
-<!-- ### Are you busy or are you productive? -->
+
 ### Introduction
-We often find ourselves overwhelmed with tasks, meetings, and obligations, constantly rushing from one thing to another. While, it can be overwhelming to feel like you have too much work all the time, however being busy doesn’t necessarily equate to being productive.
+Emails play a crucial role in business communication, enabling effective correspondence with colleagues and clients. However, without careful management, your inbox can easily transform from a useful tool into a time-consuming distraction. In a report dating back to 2012, McKinsey found that professionals spent an average of 28% of their workday on emails. With the surge in digital communication since then, it's clear how much time we invest in our inboxes.
 
+If not managed properly, emails can hinder productivity, preventing valuable work from being accomplished. But fear not! In this post, we'll explore strategies to structure your day, manage your inbox, compose effective emails, and implement policies that transform emailing into a productivity booster.
 
-While being busy may make you feel occupied, productivity is about accomplishing meaningful tasks that align with your goals and priorities.
+### Don't Let Email Dominate your Day
 
+Effective email strategies start with robust time management techniques for your overall workday. This allows you to focus on essential tasks and integrate communication seamlessly.
 
-After years of struggling with these problems. These are the mnemonics that I have developed over the course of years that have helped me ascertain the essence of productivity and reclaim control of my time and energy:
+### Create a Task List for Your Day
 
-#### 1. One thing at a time:
-In the urge to reap maximum benefits and win the race of life and success, you try dealing with multiple tasks and are always on your toes. While the art of multitasking has long being hailed as a hallmark of smart and successful people, research suggests that it may actually hinder productivity. A study conducted by Stanford University found that people who frequently multitask are less able to filter out irrelevant information, have poorer memory, and experience difficulty focusing on a single task. Instead, practicing single-tasking can lead to improved concentration and higher-quality work.
+Begin by creating to-do lists and tasks for your workday, outlining your most important goals and tasks. Whether done in the morning or the night before, this practice provides clarity on your priorities and how to achieve them.
 
-By focusing on one task at a time, you allow yourself to fully engage with the task at hand, leading to increased efficiency and reduced errors. Start by identifying your most productive hours and assign them to tasks that require high levels of focus and creativity. This approach allows you to give your undivided attention to each task and complete them more effectively.
+### Create Blocks of Time for Email and Blocks of Time for Work
 
-#### 2. Set SMART goals:
-Clear goals provide a roadmap for productivity. Utilize the SMART framework when setting goals: Specific, Measurable, Achievable, Relevant, and Time-bound. Clearly define what you want to accomplish, break it down into actionable steps, and set deadlines. By meticulously crafting these beacons of purpose, we gain a lucid roadmap to navigate our productivity voyage (Locke & Latham, 1990). Breaking down these objectives into manageable sub-tasks and adhering to a predetermined timeline further amplifies our focus and bolsters our sense of accomplishment (Kumar & Agrawal, 2020).
+Allocate specific time blocks for tasks and communication. Designate two 20 to 30-minute windows each day to handle your inbox. Structuring your email time prevents it from interfering with other critical tasks.
 
+### Remove Distractions and Notifications
 
-This approach not only enhances your focus but also gives you a sense of accomplishment as you complete each task. SMART goals provide a sense of purpose, direction, and motivation, propelling you towards productivity and success. Regularly review and adjust your goals to stay on track and remain motivated.
+Eliminate email notifications and other distractions to maintain focus and concentration on your work.
 
+### Effective Emailing Improves Productivity
 
-#### 3. Learn to say ‘No’:
-We often overcommit ourselves, trying to please everyone or fearing missed opportunities.
+When managing your inbox and crafting emails, consider the following tips to enhance productivity:
 
-> If you don’t value your time others won’t either
+#### Apply a Priority Matrix
 
-Saying “yes” to every request or opportunity that comes your way can quickly lead to an overloaded schedule, and eventually burnout. Learn to evaluate requests and obligations carefully.
+Use a priority matrix to categorize emails based on urgency and importance, allowing you to prioritize responses effectively.
 
-Say no to tasks or commitments that do not align with your goals or values. Being productive requires understanding your limitations and recognizing when to delegate tasks. It’s okay to decline or delegate tasks that don’t contribute to your productivity or well-being. By setting boundaries and saying no when necessary, you protect your time and energy for meaningful endeavors.
+- **Do: Important and urgent** - Address these emails promptly.
+- **Schedule: Important but not urgent** - Postpone these emails for later using features like Snooze.
+- **Delegate: Urgent but not important** - Assign emails that others can handle.
+- **Remove: Not important, not urgent** - Delete irrelevant emails and unsubscribe from recurring non-essential messages.
 
-Moreover, whether it be spending time on social media, reading depressing news, watching useless YouTube videos, or playing a mind-numbing game on your phone. We all sometimes, spend time in ways that do not work for us. They are activities that pull us in and grab hold of us. Activities that drain us of our energy. Always remember that these platforms are optimized for their profit, not for your well being/productivity.
+#### Use Your Subject Line to Summarize
 
+Craft clear and concise subject lines to communicate the purpose of your email, aiding recipients in prioritizing messages.
 
-#### 4. Don’t chase perfection:
-Perfectionism can be a productivity killer. While striving for excellence is admirable, chasing perfection can lead to excessive time spent on minute details and an inability to move forward.
+#### Be Concise with What You Write
 
-Seek progress not perfection, perfection is just another name for procrastination.
+Compose professional, concise emails with logical information and action points, ensuring efficient comprehension and prompt action.
 
-As a perfectionist myself, I have for long struggled to meet deadlines. One approach that is particularly helpful is of ‘iterative development’. In this approach you don't attempt to make your final product/project in one go, instead you build it iteratively multiple times improving upon the previous version each time. This technique ensures that even if you fail to build your idealistically perfect product, you would have something to deliver.
+### Your Company Needs an Email Policy in Place
 
-This way the possibility of perfection is not compromised, while the fear of not being able to deliver is eliminated.
+Establishing clear email policies enhances communication efficiency within your organization. Consider the following aspects:
 
-#### 5. Strong Commitment and Work Ethic:
-Commitment instils a sense of purpose and meaning in your work. When you are committed, you are driven by a strong internal motivation to succeed.
+#### How Should You Write? Formal vs. Professional
 
-> Are you committed or just involved?
+Distinguish between formal and professional tones in emails, providing guidelines for appropriate language and syntax.
 
-While involvement signifies participation, commitment takes it a step further, indicating a deep dedication and perseverance towards achieving desired outcomes. By connecting your tasks to a larger purpose, you are more likely to invest the necessary effort and achieve higher levels of productivity. This dedication helps you stay focused, overcome obstacles, and maintain resilience in the face of challenges. Commitment provides the drive, purpose, and consistency necessary for achieving meaningful results.
+#### Standard Response Time
 
-Discipline helps you overcome distractions, procrastination, and the temptation to take shortcuts. It means consistently showing up, putting in the necessary effort, and staying focused on your goals.
+Define specific response times for internal communication to streamline workflow and avoid unnecessary delays.
 
-Also, I would recommend to pursue the difficult tasks first, and smaller ones would usually take care of themselves.
+#### Think About Who the Email is Being Sent To
 
-> “If it’s your job to eat a frog, it’s best to do it first thing in the morning. And if it’s your job to eat two frogs, it’s best to eat the biggest one first”, said Mark Twain.
+Implement a policy on email recipients, specifying who should be included based on their relevance to the message.
 
-Lastly, I would like to mention that productivity is not about working tirelessly for hours on end. It’s about working with focus and taking strategic breaks. Our brains have limited attention spans, so it’s essential to work in short bursts of intense focus. Consider adopting the Pomodoro Technique, which involves working for a concentrated period (typically 25 minutes) and then taking a short break (around 5 minutes). After completing a set of four cycles, take a more extended break of 15–30 minutes. This approach not only refreshes your mind but also provides opportunities for physical movement, which can boost your overall well-being.
+#### Is Email the Right Tool for the Job?
 
+Encourage the use of appropriate communication tools for different scenarios, considering factors like complexity and the need for real-time interaction.
 
-### Conclusion
-In a world of busyness, it’s important to recognize that true productivity goes beyond mere activity. By implementing proven strategies, we can boost our productivity and reclaim control of our time and energy. The key lies in focusing on one task at a time, setting SMART goals, learning to say ‘no,’ avoiding the trap of perfectionism, and embracing strong commitment and work ethic. Additionally, understanding the importance of strategic breaks and adopting techniques like the Pomodoro Technique can help us maintain focus and enhance overall well-being.
+### Make Sure You Have the Right Email Toolkit
 
+Choose an email platform that streamlines inbox organization and supports repetitive tasks. Spike offers various tools for efficient email management, including Priority Inbox, Super Search, Conversational Email, Video Meetings, Groups, Online Notes, Tasks and To-Do Lists, Voice Messages, and a Calendar.
 
-### Refrences
+### Summary
 
-* Stanford University. (2009). Stanford researchers find multitasking may be detrimental to memory. Retrieved from: [https://news.stanford.edu/news/2009/august24/multitask-research-study-082409.html](https://news.stanford.edu/news/2009/august24/multitask-research-study-082409.html)
+Navigating the challenges of digital communication requires ongoing effort. By implementing these tips for managing your day, organizing your inbox, and crafting effective emails, you can enhance productivity. Additionally, selecting the right platform for your business communication is crucial for optimizing efficiency.
 
-* Kumar, A., & Agrawal, S. (2020). Goal Setting and Task Performance: A Literature Review. Journal of Organizational Behavior Research, 5(1), 38–55.
+To sum up, remember these four key tips for staying efficient and productive with your emails:
 
-* Locke, E. A., & Latham, G. P. (1990). A Theory of Goal Setting & Task Performance. Englewood Cliffs, NJ: Prentice-Hall.
-
-* Twain, M. (n.d.). Mark Twain Quotes. Retrieved from [https://www.goodreads.com/quotes/206620-if-it-s-your-job-to-eat-a-frog-it-s](https://www.goodreads.com/quotes/206620-if-it-s-your-job-to-eat-a-frog-it-s)
+1. Don't let email dominate your day.
+2. Organize your inbox and structure your emails.
+3. Create company policies to make emailing efficient.
+4. Choose the right platform to support your business communications.
