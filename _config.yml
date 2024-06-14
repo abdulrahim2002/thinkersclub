@@ -1,7 +1,8 @@
 # Site Settings
-name: ABDUL RAHIM 
-title: Abdul Rahim | Blogs
-description: The website hosts blogs in a bunch of fields.
+name: Thinkers Club
+title: A place to discuss science, technology and beyond
+  description: It is highly recommended that you publish preprint research papers/articles, RFC(Request for Comment) articles. Although we also welcome general scientific articles. Please note that the website moderator holds the right to reject your article submissions.
+
 tags:
   - blog
   - template
@@ -18,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: arkhan3123@gmail.com
+email: abdulgame47@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
@@ -39,7 +40,7 @@ medium_username: abdulrahim2002
 show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
-two_columns_layout: true
+two_columns_layout: false
 
 
 # Advanced Settings
