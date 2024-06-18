@@ -19,12 +19,17 @@ Haiku, a traditional form of Japanese poetry, has transcended cultural boundarie
 
 # testing if markup latex works
 
-```
-$x^2+1$
-```
+Hi `$z = x + y$`.
+
+`$$a^2 + b^2 = c^2$$`
+
+`$$\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc$$`
 
 
-#### 1. Matsuo Basho (1644-1694)
+
+### 1. Matsuo Basho (1644-1694)
 
 Matsuo Basho stands as one of the preeminent haiku poets in history. Revered for his focus on nature and his knack for distilling the essence of a moment into a few carefully chosen words, Basho's haiku poems exude simplicity, elegance, and powerful imagery.
 
