@@ -1,7 +1,7 @@
 # Site Settings
 name: Thinkers Club
 title: check_title
-  description: check
+description: check
 tags:
   - blog
   - template
