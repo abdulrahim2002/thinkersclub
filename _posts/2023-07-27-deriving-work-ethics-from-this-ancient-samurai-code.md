@@ -11,6 +11,7 @@ tags:
   - japan
   - haiku
 author: abdulrahim
+math: true
 ---
 
 ### Introduction
