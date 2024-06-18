@@ -17,6 +17,13 @@ author: abdulrahim
 
 Haiku, a traditional form of Japanese poetry, has transcended cultural boundaries to become a cherished art form globally. Renowned for its minimalistic style, emphasis on nature, and the remarkable ability to encapsulate moments and emotions within a few lines, haiku has inspired countless poets throughout history. In this article, we embark on a journey to discover 10 haiku poets whose contributions have left an indelible mark on this revered poetic genre. Join us as we delve into their unique styles and explore exemplary pieces of their work.
 
+# testing if markup latex works
+
+```
+$x^2+1$
+```
+
+
 #### 1. Matsuo Basho (1644-1694)
 
 Matsuo Basho stands as one of the preeminent haiku poets in history. Revered for his focus on nature and his knack for distilling the essence of a moment into a few carefully chosen words, Basho's haiku poems exude simplicity, elegance, and powerful imagery.
