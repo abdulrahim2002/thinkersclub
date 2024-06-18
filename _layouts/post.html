@@ -104,7 +104,8 @@
             {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: author.linkedin_username | append: '",' %}
         {% endif %}
         {% if page.math %}
-        <script>
+
+	<script>
             MathJax = {
                 tex: {
                 inlineMath: [['$', '$'], ['\\(', '\\)']]
@@ -115,7 +116,10 @@
             src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
         </script>
         {% endif %}
-        <script type="application/ld+json">
+
+	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+	
+	<script type="application/ld+json">
         {
             "@context": "http://schema.org",
             "@type": "BlogPosting",
