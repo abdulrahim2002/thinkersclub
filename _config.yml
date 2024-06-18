@@ -1,7 +1,7 @@
 # Site Settings
 name: Thinkers Club
-title: A place to discuss science, technology and beyond
-  description: Thinkers club
+title: check_title
+  description: check
 tags:
   - blog
   - template
@@ -103,4 +103,4 @@ exclude: [
 ]
 
 # Theme
-version:
+version: 
