@@ -1,3 +1,5 @@
+the new branch name is the output of `TZ=Asia/Kolkata date +%Y%m%dT%H%M%S`
+
 ## Features
 
 - [Live Search](docs/features.md#live-search)
