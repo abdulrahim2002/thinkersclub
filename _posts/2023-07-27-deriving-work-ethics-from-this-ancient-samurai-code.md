@@ -17,6 +17,12 @@ author: abdulrahim
 
 Haiku, a traditional form of Japanese poetry, has transcended cultural boundaries to become a cherished art form globally. Renowned for its minimalistic style, emphasis on nature, and the remarkable ability to encapsulate moments and emotions within a few lines, haiku has inspired countless poets throughout history. In this article, we embark on a journey to discover 10 haiku poets whose contributions have left an indelible mark on this revered poetic genre. Join us as we delve into their unique styles and explore exemplary pieces of their work.
 
+# Testing out latex
+
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
+
+
 # testing if markup latex works
 
 Hi `$z = x + y$`.
