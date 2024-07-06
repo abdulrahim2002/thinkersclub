@@ -4,15 +4,6 @@ I intend to keep a landing page, with the thinker at front. but the problem is t
 
 All posts would be older than this always, hence hero page wont change
 
-
-## SEO
-
-- Google Analytics
-- Meta tags
-- JSON-LD
-- Sitemap.xml
-- Social Media ready
-
 ## Quick Install
 
 In the case you're installing to existing Jekyll project, add this line to your project's `Gemfile`:
