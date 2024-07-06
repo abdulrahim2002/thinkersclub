@@ -1,5 +1,10 @@
 the new branch name is the output of `TZ=Asia/Kolkata date +%Y%m%dT%H%M%S`
 
+I intend to keep a landing page, with the thinker at front. but the problem is that it is picked up by hero page, hero page takes the latest post and put it in hero. To always keep a a post in page, *i have added a timestamp of distant, future*
+
+All posts would be older than this always, hence hero page wont change
+
+
 ## Features
 
 - [Live Search](docs/features.md#live-search)
@@ -87,7 +92,7 @@ Below are some properties you can change in your project `_config.yml`, check th
 # Site Settings
 name: Jekflix
 title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Abdul Rahim.
+description: Jekflix is a template for Jekyll inspired by Netflix
 tags:
   - blog
   - template

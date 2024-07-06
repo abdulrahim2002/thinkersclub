@@ -16,8 +16,11 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - title: Contribute # add a contribute page so users can add their articles
+    url: /contribute
   - title: Feed
     url: /feed.xml
+
 email: abdulgame47@gmail.com
 # See: https://disqus.com/
 disqus_username: disqus_username
@@ -40,7 +43,7 @@ show_time_bar: false
 show_modal_on_exit: false
 show_modal_on_finish_post: true
 two_columns_layout: false
-
+future: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog

@@ -33,6 +33,3 @@ Navigate through the menu below as you wish, and most of all, have fun! 😄
 * [Netlify CMS](netlify-cms.md#netlify-cms)
   * [Deploy with Netlify](netlify-cms.md#deploy-with-netlify)
   * [Integrate with Netlify CMS](netlify-cms.md#integrate-with-netlify-cms)
-
-
-
