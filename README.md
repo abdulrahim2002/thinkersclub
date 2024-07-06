@@ -5,32 +5,6 @@ I intend to keep a landing page, with the thinker at front. but the problem is t
 All posts would be older than this always, hence hero page wont change
 
 
-## Features
-
-- [Live Search](docs/features.md#live-search)
-- [Estimated Reading Time](docs/features.md#estimated-reading-time)
-- [Reading Progress Bar](docs/features.md#reading-progress-bar) *(optional)*
-- ["New Post" tag](docs/features.md#new-post-tag)
-- [Load images on demand](docs/features.md#load-images-on-demand)
-- [Push Menu](docs/features.md#push-menu)
-- [SVG icons](docs/features.md#svg-icons)
-- [Shell script to create posts](docs/features.md#shell-script-to-create-posts)
-- [Tags page](docs/features.md#tags-page)
-- [About page](docs/features.md#about-page)
-- [Contact page](docs/features.md#contact-page)
-- [404 error page](docs/features.md#404-error-page)
-- [Feed RSS](docs/features.md#feed-rss)
-- [Disqus](docs/features.md#disqus) *(optional)*
-- [Featured post](docs/features.md#featured-post) *(optional)*
-- [Home page pagination](docs/features.md#home-page-pagination) *(optional)*
-- [Posts sidebar](docs/features.md#posts-sidebar) *(optional)*
-- [Paginated posts](docs/features.md#paginated-posts) *(optional)*
-- ["Before you go" modal](docs/features.md#before-you-go-modal) *(optional)*
-- [Post recommendation](docs/features.md#post-recommendation)
-- [Netlify CMS ready](docs/features.md#netlify-cms-ready)
-- [Translations](docs/setup.md#translations) **new!**
-- [Math Expressions](docs/features.md#math-expressions) *(optional)* **new!**
-
 ## SEO
 
 - Google Analytics
