@@ -25,7 +25,336 @@ tags:
 author: abdulrahim
 ---
 
-
+Strategies for This Topic
+In this task, you are asked to discuss the extent to which you agree or disagree with the
+statement. Thus, responses may range from strong agreement or strong disagreement to
+qualified agreement or qualified disagreement. You are also instructed to explain your
+reasoning and consider ways in which the statement might or might not hold true. A
+successful response need not comment on all or any one of the points listed here and may
+well discuss other reasons or examples not mentioned here in support of the position
+taken.
+Although this topic is accessible to respondents of all levels of ability, for any response to
+receive a top score, it is particularly important that you remain focused on the task and
+provide clearly relevant examples and/or reasons to support the point of view you are
+expressing. Lower level responses may be long and full of examples of modern technology,
+but those examples may not be clearly related to a particular position. For example, a
+respondent who strongly disagrees with the statement may choose to use computer
+technology as proof that thinking ability is not deteriorating. However, the mere existence
+of computer technology does not adequately prove this point; e.g., perhaps the ease of
+computer use inhibits our thinking ability. To receive a higher-level score, the respondent
+should explain in what ways computer technology may call for or require thinking ability.
+This topic could elicit a wide variety of approaches, especially considering the different
+possible interpretations of the phrase "the ability of humans to think for themselves."
+Although most respondents may take it to mean problem solving, others could interpret it
+as emotional and social intelligence; i.e., the ability to communicate/connect with others.
+With any approach, it is possible to discuss examples such as calculators, word processing
+tools such as spell/grammar check, tax preparation software, Internet research and a
+variety of other common household and business technologies.You may agree with the topic and argue that:
+reliance on technology leads to dependency; we come to rely on problem-solving
+technologies to such a degree that when they fail we are in worse shape than if we
+didn't have them
+everyday technologies such as calculators and cash registers have decreased our
+ability to perform simple calculations, a "use it or lose it" approach to thinking ability
+Or you may take issue with the topic and argue that technology facilitates and
+improves our thinking skills, arguing that:
+developing, implementing and using technology requires problem solving
+technology frees us from mundane problem solving (e.g., calculations) and allows us
+to engage in more complex thinking
+technology provides access to information otherwise unavailable
+technology connects people at a distance and allows them to share ideas
+technology is dependent on the human ability to think and make choices (every
+implementation of and advance in technology is driven by human intelligence and
+decision making)
+On the other hand, you could decide to explore the middle ground in the debate and point
+out that while technology may diminish some mental skill sets, it enables other (perhaps
+more important) types of thinking to thrive. Such a response might distinguish between
+complex problem solving and simple "data maintenance" (i.e., performing calculations and
+organizing information).
+Other approaches could involve taking a historical, philosophical or sociological stance or,
+with equal effectiveness, using personal experience to illustrate a position. One could
+argue that the value or detriment of relying on technology is determined by the individual
+(or society) using it or that only those who develop technology (i.e., technical specialists) are
+maintaining their problem-solving skills, while the rest of us are losing them.
+Again, it is important for you to avoid overly general examples or lists of examples without
+expansion. It is also essential to do more than paraphrase the prompt. Please keep in mind
+that what counts is the ability to clearly express a particular point of view in relation to the
+issue and specific task instructions and to support that position with relevant reasons
+and/or examples.
+Sample Essay Responses and Rater Commentary for this Task
+The sample essays that follow were written in response to the sample Issue task. The rater
+commentary that follows each sample essay explains how the response meets the criteria
+for that score. For a more complete understanding of the criteria for each score point,
+consult the "Analyze an Issue" Scoring Guide.
+Note: All responses are reproduced exactly as written, including errors, misspellings, etc., if
+any.
+2Essay Response — Score 6
+The statement linking technology negatively with free thinking plays on recent human
+experience over the past century. Surely there has been no time in history where the lived
+lives of people have changed more dramatically. A quick reflection on a typical day reveals
+how technology has revolutionized the world. Most people commute to work in an
+automobile that runs on an internal combustion engine. During the workday, chances are
+high that the employee will interact with a computer that processes information on silicon
+bridges that are .09 microns wide. Upon leaving home, family members will be reached
+through wireless networks that utilize satellites orbiting the earth. Each of these common
+occurrences could have been inconceivable at the turn of the 19th century.
+The statement attempts to bridge these dramatic changes to a reduction in the ability for
+humans to think for themselves. The assumption is that an increased reliance on
+technology negates the need for people to think creatively to solve previous quandaries.
+Looking back at the introduction, one could argue that without a car, computer, or mobile
+phone, the hypothetical worker would need to find alternate methods of transport,
+information processing and communication. Technology short circuits this thinking by
+making the problems obsolete.
+However, this reliance on technology does not necessarily preclude the creativity that
+marks the human species. The prior examples reveal that technology allows for
+convenience. The car, computer and phone all release additional time for people to live
+more efficiently. This efficiency does not preclude the need for humans to think for
+themselves. In fact, technology frees humanity to not only tackle new problems, but may
+itself create new issues that did not exist without technology. For example, the proliferation
+of automobiles has introduced a need for fuel conservation on a global scale. With
+increasing energy demands from emerging markets, global warming becomes a concern
+inconceivable to the horse-and-buggy generation. Likewise dependence on oil has created
+nation-states that are not dependent on taxation, allowing ruling parties to oppress
+minority groups such as women. Solutions to these complex problems require the
+unfettered imaginations of maverick scientists and politicians.
+In contrast to the statement, we can even see how technology frees the human
+imagination. Consider how the digital revolution and the advent of the internet has allowed
+for an unprecedented exchange of ideas. WebMD, a popular internet portal for medical
+information, permits patients to self research symptoms for a more informed doctor visit.
+This exercise opens pathways of thinking that were previously closed off to the medical
+layman. With increased interdisciplinary interactions, inspiration can arrive from the most
+surprising corners. Jeffrey Sachs, one of the architects of the UN Millenium Development
+Goals, based his ideas on emergency care triage techniques. The unlikely marriage of
+economics and medicine has healed tense, hyperinflation environments from South
+America to Eastern Europe.
+This last example provides the most hope in how technology actually provides hope to the
+future of humanity. By increasing our reliance on technology, impossible goals can now be
+achieved. Consider how the late 20th century witnessed the complete elimination of
+3smallpox. This disease had ravaged the human race since prehistorical days, and yet with
+the technology of vaccines, free thinking humans dared to imagine a world free of
+smallpox. Using technology, battle plans were drawn out, and smallpox was systematically
+targeted and eradicated.
+Technology will always mark the human experience, from the discovery of fire to the
+implementation of nanotechnology. Given the history of the human race, there will be no
+limit to the number of problems, both new and old, for us to tackle. There is no need to
+retreat to a Luddite attitude to new things, but rather embrace a hopeful posture to the
+possibilities that technology provides for new avenues of human imagination.
+Rater Commentary for Essay Response — Score 6
+The author of this essay stakes out a clear and insightful position on the issue and follows
+the specific instructions by presenting reasons to support that position. The essay cogently
+argues that technology does not decrease our ability to think for ourselves, but merely
+provides "additional time for people to live more efficiently." In fact, the problems that have
+developed alongside the growth of technology (pollution, political unrest in oil-producing
+nations) actually call for more creative thinking, not less.
+In further examples, the essay explains how technology allows for the linking of ideas that
+may never have been connected in the past (like medicine and economic models), pushing
+people to think in new ways. Examples are persuasive and fully developed; reasoning is
+logically sound and well supported.
+Ideas in the essay are connected logically, with effective transitions used both between
+paragraphs ("However" or "In contrast to the statement") and within paragraphs. Sentence
+structure is varied and complex and the essay clearly demonstrates facility with the
+"conventions of standard written English (i.e., grammar, usage and mechanics)," with only
+minor errors occurring. Thus, this essay meets all the requirements for receiving a top
+score, a 6.
+Essay Response — Score 5
+Surely many of us have expressed the following sentiment, or some variation on it, during
+our daily commutes to work: "People are getting so stupid these days!" Surrounded as we
+are by striding and strident automatons with cell phones glued to their ears, PDA's gripped
+in their palms, and omniscient, omnipresent CNN gleaming in their eyeballs, it's tempting
+to believe that technology has isolated and infantilized us, essentally transforming us into
+dependent, conformist morons best equipped to sideswip one another in our SUV's.
+Furthermore, hanging around with the younger, pre-commute generation, whom tech-
+savviness seems to have rendered lethal, is even less reassuring. With "Teen People" style
+trends shooting through the air from tiger-striped PDA to zebra-striped PDA, and with the
+latest starlet gossip zipping from juicy Blackberry to teeny, turbo-charged cell phone,
+technology seems to support young people's worst tendencies to follow the crowd. Indeed,
+they have seemingly evolved into intergalactic conformity police. After all, today's tech-
+aided teens are, courtesy of authentic, hands-on video games, literally trained to kill;
+4courtesy of chat and instant text messaging, they have their own language; they even have
+tiny cameras to efficiently photodocument your fashion blunders! Is this adolescence, or
+paparazzi terrorist training camp?
+With all this evidence, it's easy to believe that tech trends and the incorporation of
+technological wizardry into our everyday lives have served mostly to enforce conformity,
+promote dependence, heighten comsumerism and materialism, and generally create a
+culture that values self-absorption and personal entitlement over cooperation and
+collaboration. However, I argue that we are merely in the inchoate stages of learning to live
+with technology while still loving one another. After all, even given the examples provided
+earlier in this essay, it seems clear that technology hasn't impaired our thinking and
+problem-solving capacities. Certainly it has incapacitated our behavior and manners;
+certainly our values have taken a severe blow. However, we are inarguably more efficient in
+our badness these days. We're effective worker bees of ineffectiveness!
+If T\technology has so increased our senses of self-efficacy that we can become veritable
+agents of the awful, virtual CEO's of selfishness, certainly it can be beneficial. Harnessed
+correctly, technology can improve our ability to think and act for ourselves. The first
+challenge is to figure out how to provide technology users with some direly-needed
+direction.
+Rater Commentary for Essay Response — Score 5
+The language of this essay clearly illustrates both its strengths and weaknesses. The
+flowery and sometimes uncannily keen descriptions are often used to powerful effect, but
+at other times, the writing is awkward and the comparisons somewhat strained. Note, for
+example, the ungainly sequence of independent clauses in the second-to-last sentence of
+paragraph 2 ("After all, today's tech-aided teens ...").
+There is consistent evidence of facility with syntax and complex vocabulary ("Surrounded
+as we are by striding and strident automatons with cell phones glued to their ears, PDA's
+gripped in their palms, and omniscient, omnipresent CNN gleaming in their eyeballs, it's
+tempting to believe..."). However, such lucid prose is sometimes countered by an over-
+reliance on abstractions and reasoning that is not entirely effective. For example, what
+does the fact that video games "literally train [teens] to kill" have to do with the use or
+deterioration of thinking abilities? On the whole, however, the response develops its ideas
+about the ways that technology can promote isolation and conformity with well-chosen
+examples, even if its ideas about the positive effects of technology are less successfully
+realized.
+Because this essay provides generally thoughtful analysis and takes a complex approach to
+the issue (arguing, in effect, that technology neither enhances nor reduces our ability to
+think for ourselves, but can do one or the other, depending on the user) and because the
+author makes use of "appropriate vocabulary and sentence variety," a score of 5 is
+appropriate.
+5Essay Response — Score 4
+In all actuality, I think it is more probable that our bodies will surely deteriorate long before
+our minds do in any significant amount. Who can't say that technology has made us lazier,
+but that's the key word, lazy, not stupid. The ever increasing amount of technology that we
+incorporate into our daily lives makes people think and learn every day, possibly more than
+ever before. Our abilities to think, learn, philosophize, etc. may even reach limits never
+dreamed of before by average people. Using technology to solve problems will continue to
+help us realize our potential as a human race.
+If you think about it, using technology to solve more complicating problems gives humans a
+chance to expand their thinking and learning, opening up whole new worlds for many
+people. Many of these people are glad for the chance to expand their horizons by learning
+more, going to new places, and trying new things. If it wasn't for the invention of new
+technological devices, I wouldn't be sitting at this computer trying to philosophize about
+technology. It would be extremely hard for children in much poorer countries to learn and
+think for themselves with out the invention of the internet. Think what an impact the
+printing press, a technologically superior mackine at the time, had on the ability of the
+human race to learn and think.
+Right now we are seeing a golden age of technology, using it all the time during our every
+day lives. When we get up there's instant coffee and the microwave and all these great
+things that help us get ready for our day. But we aren't allowing our minds to deteriorate
+by using them, we are only making things easier for ourselves and saving time for other
+important things in our days. Going off to school or work in our cars instead of a horse and
+buggy. Think of the brain power and genius that was used to come up with that single
+invention that has changed the way we move across this globe.
+Using technology to solve our continually more complicated problems as a human race is
+definately a good thing. Our ability to think for ourselves isn't deteriorating, it's continuing
+to grow, moving on to higher though functions and more ingenious ideas. The ability to use
+what technology we have is an example
+Rater Commentary for Essay Response — Score 4
+This essay meets all the criteria of a level-4 essay. The writer develops a clear position
+("Using technology to solve problems will continue to help us realize our potential as a
+human race"). The position is then developed with relevant reasons ("using technology to
+solve more complicat[ed] problems gives humans a chance to expand their thinking and
+learning" and "we are seeing a golden age of technology").
+Point 1, "using technology," is supported with the simple but relevant notion that
+technology allows us access to information and abilities to which we would not normally
+have access. Similarly, point 2, the "golden age," is supported by the basic description of
+our technologically saturated social condition. Though the overall development and
+organization of the essay does suffer from an occasional misdirection (note paragraph 3's
+abrupt progression from coffee pots to the benefits of technology to cars), the essay as a
+whole flows smoothly and logically from one idea to the next.
+6It is useful to compare this essay to the level-3 essay presented next. Though both essays
+entail some surface-level discussion and often fail to probe deeply into the issue, this writer
+does take the analysis a step further. In paragraph 2, the distinction between this essay
+and the next one (the level-3 response) can most clearly be found. To support the notion
+that advances in technology actually help increase thinking ability, the writer draws a clever
+parallel between the promise of modern, sophisticated technology (computer) and the
+actual "impact" of equally "promising" and pervasive technologies of the past (printing
+press).
+Like the analysis, the language in this essay clearly meets the requirements for a score of 4.
+The writer displays sufficient control of language and the conventions of standard written
+English. The preponderance of mistakes are of a cosmetic nature ("trying to solve more
+complicating problems."). In general, these errors are minor and do not interfere with the
+clarity of the ideas being presented.
+Essay Response — Score 3
+There is no current proof that advancing technology will deteriorate the ability of humans
+to think. On the contrary, advancements in technology had advanced our vast knowledge
+in many fields, opening opportunities for further understanding and achievement. For
+example, the problem of dibilitating illnesses and diseases such as alzheimer's disease is
+slowing being solved by the technological advancements in stem cell research. The future
+ability of growing new brain cells and the possibility to reverse the onset of alzheimer's is
+now becoming a reality. This shows our initiative as humans to better our health
+demonstrates greater ability of humans to think.
+One aspect where the ability of humans may initially be seen as an example of
+deteriorating minds is the use of internet and cell phones. In the past humans had to seek
+out information in many different enviroments and aspects of life. Now humans can sit in a
+chair and type anything into a computer and get an answer. Our reliance on this type of
+technology can be detrimental if not regulated and regularily substituted for other
+information sources such as human interactions and hands on learning. I think if humans
+understand that we should not have such a reliance on computer technology, that we as a
+species will advance further by utilizing the opportunity of computer technology as well as
+the other sources of information outside of a computer. Supplementing our knowledge
+with internet access is surely a way for technology to solve problems while continually
+advancing the human race.
+Rater Commentary for Essay Response — Score 3
+This essay never moves beyond a superficial discussion of the issue. The writer attempts to
+develop two points: that advancements in technology have progressed our knowledge in
+many fields and that supplementing rather than relying on technology is "surely a way for
+technology to solve problems while continually advancing the human race." Each point,
+then, is developed with relevant but insufficient evidence. In discussing the potential of
+technology to advance knowledge in many fields (a broad subject, rife with possible
+7examples), the writer uses only one limited and very brief example from a specific field
+(medicine and stem-cell research).
+Development of the second point is hindered by a lack of specificity and organization. The
+writer creates what might be best described as an outline. The writer cites a need for
+regulation/supplementation and warns of the detriment of over-reliance upon technology.
+However, the explanation of both the problem and solution is vague and limited ("Our
+reliance ... can be detrimental. If humans understand that we should not have such a
+reliance ... we will advance further"). There is neither explanation of consequences nor
+clarification of what is meant by "supplementing." This second paragraph is a series of
+generalizations that are loosely connected and lack a much-needed grounding.
+In the essay, there are some minor language errors and a few more serious flaws (e.g., "The
+future ability of growing new brain cells" or "One aspect where the ability of humans may
+initially be seen as an example of deteriorating minds"). Despite the accumulation of such
+flaws, the writer's meaning is generally clear. Thus, this essay earns a score of 3.
+Essay Response — Score 2
+In recent centuries, humans have developed the technology very rapidly, and you may
+accept some merit of it, and you may see a distortion in society occured by it. To be lazy for
+human in some meaning is one of the fashion issues in thesedays. There are many
+symptoms and resons of it. However, I can not agree with the statement that the
+technology make humans to be reluctant to thinkng thoroughly.
+Of course, you can see the phenomena of human laziness along with developed
+technology in some place. However, they would happen in specific condition, not general.
+What makes human to be laze of thinking is not merely technology, but the the tendency of
+human that they treat them as a magic stick and a black box. Not understanding the aims
+and theory of them couses the disapproval problems.
+The most important thing to use the thechnology, regardless the new or old, is to
+comprehend the fundamental idea of them, and to adapt suit tech to tasks in need. Even if
+you recognize a method as a all-mighty and it is extremely over-spec to your needs, you
+can not see the result you want. In this procedure, humans have to consider as long as
+possible to acquire adequate functions. Therefore, humans can not escape from using their
+brain.
+In addition, the technology as it is do not vain automatically, the is created by humans.
+Thus, the more developed tech and the more you want a convenient life, the more you
+think and emmit your creativity to breakthrough some banal method sarcastically.
+Consequently, if you are not passive to the new tech, but offensive to it, you would not lose
+your ability to think deeply. Furthermore, you may improve the ability by adopting it.
+8Rater Commentary for Essay Response — Score 2
+The language of this essay is what most clearly links it to the score of 2. Amidst sporadic
+moments of clarity, this essay is marred by serious errors in grammar, usage and
+mechanics that often interfere with meaning. It is unclear what the writer means when
+he/she states, "To be lazy for human in some meaning is one of the fashion issues in
+thesedays," or "to adapt suit tech to tasks in need."
+Despite such severe flaws, the writer has made an obvious attempt to respond to the
+prompt ("I can not agree with the statement that the technology make humans to be
+reluctant to thinking thoroughly") as well as an unclear attempt to support such an
+assertion ("Not understanding the aims and theory of them [technology] couses the
+disapproval problems" and "The most important thing to use the thechnology ... is to
+comprehend the fundamental idea of them"). On the whole, the essay displays a seriously
+flawed but not fundamentally deficient attempt to develop and support its claims.
+(Note: In this specific case, the analysis is tied directly to the language. As the language
+falters, so too does the analysis.)
+Essay Response — Score 1
+Humans have invented machines but they have forgot it and have started everything
+technically so clearly their thinking process is deterioating.
+Rater Commentary for Essay Response — Score 1
+The essay is clearly on topic, as evidenced by the writer's usage of the more significant
+terms from the prompt: "technically" (technologically), "humans," "thinking" (think) and
+"deteriorating" (deteriorate). Such usage is the only clear evidence of understanding.
+Meaning aside, the brevity of the essay (one sentence) clearly indicates the writer's inability
+to develop a response that follows the specific instructions given ("Discuss the extent to
+which you agree or disagree with the statement above and explain your reasoning for the
+position you take").
+The language, too, is clearly level 1, as the sentence fails to achieve coherence. The
+coherent phrases in this one-sentence response are those tied to the prompt: "Humans
+have invented machines" and "their thinking process is deteriorating." Otherwise, the point
+being made is unintelligible.
 
 
 ```java
@@ -93,1292 +422,4 @@ int main() {
         printf("\nStudent Management System\n");
         printf("1. Add Student\n");
         printf("2. Display Students\n");
-        printf("3. Save Students to File\n");
-        printf("4. Load Students from File\n");
-        printf("5. Exit\n");
-        printf("Enter your choice: ");
-        scanf("%d", &choice);
-
-        switch (choice) {
-            case 1:
-                addStudent(students, &count);
-                break;
-            case 2:
-                displayStudents(students, count);
-                break;
-            case 3:
-                saveStudentsToFile(students, count, "students.txt");
-                break;
-            case 4:
-                loadStudentsFromFile(students, &count, "students.txt");
-                break;
-            case 5:
-                exit(0);
-            default:
-                printf("Invalid choice! Please try again.\n");
-        }
-    }
-
-    return 0;
-}
 ```
-
-# R code
-
-```r
-# Load necessary libraries
-library(ggplot2)
-library(dplyr)
-
-# Load the iris dataset
-data(iris)
-
-# Inspect the first few rows of the dataset
-head(iris)
-
-# Summary statistics of the dataset
-summary(iris)
-
-# Data manipulation using dplyr
-# Calculate the mean sepal length for each species
-mean_sepal_length <- iris %>%
-  group_by(Species) %>%
-  summarize(mean_sepal_length = mean(Sepal.Length))
-
-# Print the result
-print(mean_sepal_length)
-
-# Plotting using ggplot2
-# Scatter plot of Sepal.Length vs Sepal.Width colored by Species
-ggplot(data = iris, aes(x = Sepal.Length, y = Sepal.Width, color = Species)) +
-  geom_point(size = 3) +
-  labs(title = "Sepal Length vs Sepal Width",
-       x = "Sepal Length (cm)",
-       y = "Sepal Width (cm)",
-       color = "Species") +
-  theme_minimal()
-
-# Save the plot to a file
-ggsave("scatter_plot.png", width = 8, height = 6)
-
-```
-
-
-here shell:
-
-```bash
-#!/bin/bash
-
-# A simple script to back up a directory
-
-# Define the source and destination directories
-SOURCE_DIR="/path/to/source"
-DEST_DIR="/path/to/destination"
-
-# Get the current date and time for the backup folder name
-TIMESTAMP=$(date +"%Y%m%d%H%M%S")
-
-# Create the backup directory
-BACKUP_DIR="$DEST_DIR/backup_$TIMESTAMP"
-mkdir -p "$BACKUP_DIR"
-
-# Copy the files
-cp -r "$SOURCE_DIR/"* "$BACKUP_DIR/"
-
-# Print a message indicating completion
-echo "Backup of $SOURCE_DIR completed successfully at $BACKUP_DIR"
-```
-
-# yml
-
-```yml
-# YAML example: Configuration file for a web application
-
-server:
-  host: "localhost"
-  port: 8080
-
-database:
-  type: "mysql"
-  host: "db.example.com"
-  port: 3306
-  username: "dbuser"
-  password: "dbpass"
-  name: "mydatabase"
-
-logging:
-  level: "INFO"
-  file: "/var/log/myapp.log"
-
-features:
-  authentication: true
-  analytics: false
-`
-
-
-============
-Introduction
-============
-
-`View slides <intro-slides.html>`_
-
-.. slideconf::
-   :autoslides: False
-   :theme: single-level
-
-Lecture objectives:
-===================
-
-.. slide:: Introduction
-   :inline-contents: True
-   :level: 2
-
-   * Basic operating systems terms and concepts
-
-   * Overview of the Linux kernel
-
-
-Basic operating systems terms and concepts
-==========================================
-
-User vs Kernel
---------------
-
-.. slide:: User vs Kernel
-   :level: 2
-
-   * Execution modes
-
-     * Kernel mode
-
-     * User mode
-
-   * Memory protection
-
-     * Kernel-space
-
-     * User-space
-
-
-Kernel and user are two terms that are often used in operating
-systems. Their definition is pretty straight forward: The kernel is
-the part of the operating system that runs with higher privileges
-while user (space) usually means by applications running with low
-privileges.
-
-However these terms are heavily overloaded and might have very
-specific meanings in some contexts.
-
-User mode and kernel mode are terms that may refer specifically to the
-processor execution mode. Code that runs in kernel mode can fully
-[#hypervisor]_ control the CPU while code that runs in user mode has
-certain limitations. For example, local CPU interrupts can only be
-disabled or enable while running in kernel mode. If such an operation
-is attempted while running in user mode an exception will be generated
-and the kernel will take over to handle it.
-
-.. [#hypervisor] some processors may have even higher privileges than
-                 kernel mode, e.g. a hypervisor mode, that is only
-                 accessible to code running in a hypervisor (virtual
-                 machine monitor)
-
-User space and kernel space may refer specifically to memory
-protection or to virtual address spaces associated with either the
-kernel or user applications.
-
-Grossly simplifying, the kernel space is the memory area that is
-reserved to the kernel while user space is the memory area reserved to
-a particular user process. The kernel space is accessed protected so
-that user applications can not access it directly, while user space
-can be directly accessed from code running in kernel mode.
-
-
-Typical operating system architecture
--------------------------------------
-
-In the typical operating system architecture (see the figure below)
-the operating system kernel is responsible for access and sharing the
-hardware in a secure and fair manner with multiple applications.
-
-.. slide:: Typical operating system architecture
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-
-      +---------------+  +--------------+      +---------------+  -\
-      | Application 1 |  | Application2 | ...  | Application n |   |
-      +---------------+  +--------------+      +---------------+   |> User space
-              |                 |                      |           |
-              v                 v                      v          -/
-      +--------------------------------------------------------+  -\
-      |                 System Call Interface                  |   |
-      +--------------------------------------------------------+   |
-              |                 |                      |           |
-              v                 v                      v           |> Kernel space
-      +--------------------------------------------------------+   |
-      |                       Kernel                           |   |
-      +--------------------------------------------------------+   |
-      |                   Device drivers                       |   |
-      +--------------------------------------------------------+  -/
-              |                 |                      |          -\
-              v                 v                      v           |> Hardware
-                                                                  -/
-
-
-
-The kernel offers a set of APIs that applications issue which are
-generally referred to as "System Calls". These APIs are different from
-regular library APIs because they are the boundary at which the
-execution mode switch from user mode to kernel mode.
-
-In order to provide application compatibility, system calls are rarely
-changed. Linux particularly enforces this (as opposed to in kernel
-APIs that can change as needed).
-
-The kernel code itself can be logically separated in core kernel
-code and device drivers code. Device drivers code is responsible of
-accessing particular devices while the core kernel code is
-generic. The core kernel can be further divided into multiple logical
-subsystems (e.g. file access, networking, process management, etc.)
-
-
-Monolithic kernel
------------------
-
-A monolithic kernel is one where there is no access protection between
-the various kernel subsystems and where public functions can be
-directly called between various subsystems.
-
-
-.. slide:: Monolithic kernel
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-
-      +-----+          +-----+          +-----+
-      | App |          | App |          | App |
-      +-----+          +-----+          +-----+
-         |                |                |                 User
-      =--|-------=--------|--------=-------|-------------------=-
-         |                |                |               Kernel
-         v                v                v
-      +--------------------------------------------------------+
-      |                 System Call Interface                  |
-      +--------------------------------------------------------+
-                |                                    |
-                v                                    v
-             +-----+                              +-----+
-             |     |<---------------------------->|     |    Kernel
-             |     |<---+                +------->|     |  functions
-             +--+--+    |                |        +-----+
-                |       |                |           ^
-                |       |     +-----+    |           |
-                |+------+---->|     |<---+           |
-                ||      |     +-----+                |
-                ||      |                            |
-                vv      |                            v
-             +--++-+    |                         +-----+
-             |     |    +------------------------>|     |  Device
-             |     |<---------------------------->|     |  Drivers
-             +--+--+                              +--+--+
-                |                                    |
-                v                                    v
-      +--------------------------------------------------------+
-      |                         Hardware                       |
-      +--------------------------------------------------------+
-
-
-However, most monolithic kernels do enforce a logical separation
-between subsystems especially between the core kernel and device
-drivers with relatively strict APIs (but not necessarily fixed in
-stone) that must be used to access services offered by one subsystem
-or device drivers. This, of course, depends on the particular kernel
-implementation and the kernel's architecture.
-
-
-Micro kernel
-------------
-
-A micro-kernel is one where large parts of the kernel are protected
-from each-other, usually running as services in user space. Because
-significant parts of the kernel are now running in user mode, the
-remaining code that runs in kernel mode is significantly smaller, hence
-micro-kernel term.
-
-.. slide:: Micro-kernel
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-
-        +-----+   +--------+  +---------+ +---------+
-        | App |   | File   |  | Network | | Display |<--+
-        |     |   | Server |  | Server  | | Server  |-+ |
-        +-----+   +--------+  +---------+ +---------+ | |
-         | ^                                          | |     User
-        -|-|----------------------------------------=-|-|-------=-
-         | |                                          | |   Kernel
-         | |                                          | |
-         | |                                          | |
-         | |                                          | |
-         | | Reply  +----------------------------+    | |
-         | +--------|                            |----+ |
-         +--------->|        Micro kernel        |------+
-          Request   |  (IPC, Memory, Scheduler)  |
-                    |                            |
-                    +----------------------------+
-                                 |
-                                 v
-        +--------------------------------------------------------+
-        |                         Hardware                       |
-        +--------------------------------------------------------+
-
-
-In a micro-kernel architecture the kernel contains just enough code
-that allows for message passing between different running
-processes. Practically that means implement the scheduler and an IPC
-mechanism in the kernel, as well as basic memory management to setup
-the protection between applications and services.
-
-One of the advantages of this architecture is that the services are
-isolated and hence bugs in one service won't impact other services.
-
-As such, if a service crashes we can just restart it without affecting
-the whole system. However, in practice this is difficult to achieve
-since restarting a service may affect all applications that depend on
-that service (e.g. if the file server crashes all applications with
-opened file descriptors would encounter errors when accessing them).
-
-This architecture imposes a modular approach to the kernel and offers
-memory protection between services but at a cost of performance. What
-is a simple function call between two services on monolithic kernels
-now requires going through IPC and scheduling which will incur a
-performance penalty [#minix-vs-linux]_.
-
-.. [#minix-vs-linux] https://lwn.net/Articles/220255/
-
-
-Micro-kernels vs monolithic kernels
------------------------------------
-
-Advocates of micro-kernels often suggest that micro-kernel are
-superior because of the modular design a micro-kernel
-enforces. However, monolithic kernels can also be modular and there
-are several approaches that modern monolithic kernels use toward this
-goal:
-
-.. slide:: Monolithic kernels *can* be modular
-   :level: 2
-   :inline-contents: True
-
-   * Components can enabled or disabled at compile time
-
-   * Support of loadable kernel modules (at runtime)
-
-   * Organize the kernel in logical, independent subsystems
-
-   * Strict interfaces but with low performance overhead: macros,
-     inline functions, function pointers
-
-
-There is a class of operating systems that (used to) claim to be
-hybrid kernels, in between monolithic and micro-kernels (e.g. Windows,
-Mac OS X). However, since all of the typical monolithic services run
-in kernel-mode in these operating systems, there is little merit to
-qualify them other then monolithic kernels.
-
-.. slide:: "Hybrid" kernels
-   :level: 2
-   :inline-contents: True
-
-   Many operating systems and kernel experts have dismissed the label
-   as meaningless, and just marketing. Linus Torvalds said of this
-   issue:
-
-   "As to the whole 'hybrid kernel' thing - it's just marketing. It's
-   'oh, those microkernels had good PR, how can we try to get good PR
-   for our working kernel? Oh, I know, let's use a cool name and try
-   to imply that it has all the PR advantages that that other system
-   has'."
-
-
-Address space
--------------
-
-.. slide:: Address space
-   :level: 2
-
-   * Physical address space
-
-     * RAM and peripheral memory
-
-   * Virtual address space
-
-     * How the CPU sees the memory (when in protected / paging mode)
-
-     * Process address space
-
-     * Kernel address space
-
-
-The address space term is an overload term that can have different
-meanings in different contexts.
-
-The physical address space refers to the way the RAM and device
-memories are visible on the memory bus. For example, on 32bit Intel
-architecture, it is common to have the RAM mapped into the lower
-physical address space while the graphics card memory is mapped high
-in the physical address space.
-
-The virtual address space (or sometimes just address space) refers to
-the way the CPU sees the memory when the virtual memory module is
-activated (sometime called protected mode or paging enabled). The
-kernel is responsible of setting up a mapping that creates a virtual
-address space in which areas of this space are mapped to certain
-physical memory areas.
-
-Related to the virtual address space there are two other terms that
-are often used: process (address) space and kernel (address) space.
-
-The process space is (part of) the virtual address space associated
-with a process. It is the "memory view" of processes. It is a
-continuous area that starts at zero. Where the process's address space
-ends depends on the implementation and architecture.
-
-The kernel space is the "memory view" of the code that runs in kernel
-mode.
-
-
-User and kernel sharing the virtual address space
--------------------------------------------------
-
-A typical implementation for user and kernel spaces is one where the
-virtual address space is shared between user processes and the kernel.
-
-In this case kernel space is located at the top of the address space,
-while user space at the bottom. In order to prevent the user processes
-from accessing kernel space, the kernel creates mappings that prevent
-access to the kernel space from user mode.
-
-.. slide:: User and kernel sharing the virtual address space
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-
-                  +-------------------+  ^
-      0xFFFFFFFF  |                   |  |
-                  |                   |  | Kernel space
-                  |                   |  |
-                  +-------------------+  v
-      0xC0000000  |                   |  ^
-                  |                   |  | User space
-                  |                   |  |
-                  |                   |  |
-                  |                   |  |
-                  |                   |  |
-                  |                   |  |
-                  |                   |  |
-                  |                   |  |
-      0x00000000  +-------------------+  v
-
-            32bit Virtual Address Space
-
-Execution contexts
-------------------
-
-.. slide:: Execution contexts
-   :level: 2
-
-   * Process context
-
-     * Code that runs in user mode, part of a process
-
-     * Code that runs in kernel mode, as a result of a system call
-       issued by a process
-
-   * Interrupt context
-
-     * Code that runs as a result of an interrupt
-
-     * Always runs in kernel mode
-
-
-One of the most important jobs of the kernel is to service interrupts
-and to service them efficiently. This is so important that a special
-execution context is associated with it.
-
-The kernel executes in interrupt context when it runs as a result of
-an interrupt. This includes the interrupt handler, but it is not
-limited to it, there are other special (software) constructs that run
-in interrupt mode.
-
-Code running in interrupt context always runs in kernel mode and there
-are certain limitations that the kernel programmer has to be aware of
-(e.g. not calling blocking functions or accessing user space).
-
-Opposed to interrupt context there is process context. Code that runs
-in process context can do so in user mode (executing application code)
-or in kernel mode (executing a system call).
-
-
-Multi-tasking
--------------
-
-.. slide:: Multi-tasking
-   :level: 2
-
-   * An OS that supports the "simultaneous" execution of multiple processes
-
-   * Implemented by fast switching between running processes to allow
-     the user to interact with each program
-
-   * Implementation:
-
-     * Cooperative
-
-     * Preemptive
-
-Multitasking is the ability of the operating system to
-"simultaneously" execute multiple programs. It does so by quickly
-switching between running processes.
-
-Cooperative multitasking requires the programs to cooperate to achieve
-multitasking. A program will run and relinquish CPU control back
-to the OS, which will then schedule another program.
-
-With preemptive multitasking the kernel will enforce strict limits for
-each process, so that all processes have a fair chance of
-running. Each process is allowed to run a time slice (e.g. 100ms)
-after which, if it is still running, it is forcefully preempted and
-another task is scheduled.
-
-Preemptive kernel
------------------
-
-.. slide:: Preemptive kernel
-   :level: 2
-   :inline-contents: True
-
-   Preemptive multitasking and preemptive kernels are different terms.
-
-   A kernel is preemptive if a process can be preempted while running
-   in kernel mode.
-
-   However, note that non-preemptive kernels may support preemptive
-   multitasking.
-
-
-Pageable kernel memory
-----------------------
-
-.. slide:: Pageable kernel memory
-   :level: 2
-   :inline-contents: True
-
-   A kernel supports pageable kernel memory if parts of kernel memory
-   (code, data, stack or dynamically allocated memory) can be swapped
-   to disk.
-
-Kernel stack
-------------
-
-.. slide:: Kernel stack
-   :level: 2
-   :inline-contents: True
-
-   Each process has a kernel stack that is used to maintain the
-   function call chain and local variables state while it is executing
-   in kernel mode, as a result of a system call.
-
-   The kernel stack is small (4KB - 12 KB) so the kernel developer has
-   to avoid allocating large structures on stack or recursive calls
-   that are not properly bounded.
-
-Portability
------------
-
-In order to increase portability across various architectures and
-hardware configurations, modern kernels are organized as follows at the
-top level:
-
-.. slide:: Portability
-   :level: 2
-   :inline-contents: True
-
-   * Architecture and machine specific code (C & ASM)
-
-   * Independent architecture code (C):
-
-     * kernel core (further split in multiple subsystems)
-
-     * device drivers
-
-This makes it easier to reuse code as much as possible between
-different architectures and machine configurations.
-
-
-Asymmetric MultiProcessing (ASMP)
----------------------------------
-
-Asymmetric MultiProcessing (ASMP) is a way of supporting multiple
-processors (cores) by a kernel, where a processor is dedicated to the
-kernel and all other processors run user space programs.
-
-The disadvantage of this approach is that the kernel throughput
-(e.g. system calls, interrupt handling, etc.) does not scale with the
-number of processors and hence typical processes frequently use system
-calls. The scalability of the approach is limited to very specific
-systems (e.g. scientific applications).
-
-
-.. slide:: Asymmetric MultiProcessing (ASMP)
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-
-                                  +-----------+
-                                  |           |
-              +------------------>|  Memory   |<-----------------+
-              |                   |           |                  |
-              |                   +-----------+                  |
-              |                         ^                        |
-              |                         |                        |
-              v                         v                        v
-      +--------------+          +---------------+         +---------------+
-      |              |          |               |         |               |
-      | Processor A  |          |  Processor B  |         |  Processor C  |
-      |              |          |               |         |               |
-      |              |          | +-----------+ |         | +-----------+ |
-      |              |          | | Process 1 | |         | | Process 1 | |
-      |              |          | +-----------+ |         | +-----------+ |
-      |              |          |               |         |               |
-      | +----------+ |          | +-----------+ |         | +-----------+ |
-      | |  kernel  | |          | | Process 2 | |         | | Process 2 | |
-      | +----------+ |          | +-----------+ |         | +-----------+ |
-      |              |          |               |         |               |
-      |              |          | +-----------+ |         | +-----------+ |
-      |              |          | | Process 3 | |         | | Process 3 | |
-      |              |          | +-----------+ |         | +-----------+ |
-      +--------------+          +---------------+         +---------------+
-
-
-Symmetric MultiProcessing (SMP)
--------------------------------
-
-As opposed to ASMP, in SMP mode the kernel can run on any of the
-existing processes, just as user processes. This approach is more
-difficult to implement, because it creates race conditions in the
-kernel if two processes run kernel functions that access the same
-memory locations.
-
-In order to support SMP the kernel must implement synchronization
-primitives (e.g. spin locks) to guarantee that only one processor is
-executing a critical section.
-
-.. slide:: Symmetric MultiProcessing (SMP)
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-
-                                   +-----------+
-                                   |           |
-              +------------------->|  Memory   |<------------------+
-              |                    |           |                   |
-              |                    +-----------+                   |
-              |                          ^                         |
-              |                          |                         |
-              v                          v                         v
-      +---------------+          +---------------+         +---------------+
-      |               |          |               |         |               |
-      |  Processor A  |          |  Processor B  |         |  Processor C  |
-      |               |          |               |         |               |
-      | +-----------+ |          | +-----------+ |         | +-----------+ |
-      | | Process 1 | |          | | Process 1 | |         | | Process 1 | |
-      | +-----------+ |          | +-----------+ |         | +-----------+ |
-      |               |          |               |         |               |
-      | +-----------+ |          | +-----------+ |         | +-----------+ |
-      | | Process 2 | |          | | Process 2 | |         | | Process 2 | |
-      | +-----------+ |          | +-----------+ |         | +-----------+ |
-      |               |          |               |         |               |
-      | +-----------+ |          | +-----------+ |         | +-----------+ |
-      | |   kernel  | |          | |   kernel  | |         | |   kernel  | |
-      | +-----------+ |          | +-----------+ |         | +-----------+ |
-      +---------------+          +---------------+         +---------------+
-
-
-CPU Scalability
----------------
-
-CPU scalability refers to how well the performance scales with
-the number of cores. There are a few things that the kernel developer
-should keep in mind with regard to CPU scalability:
-
-.. slide:: CPU Scalability
-   :level: 2
-   :inline-contents: True
-
-   * Use lock free algorithms when possible
-
-   * Use fine grained locking for high contention areas
-
-   * Pay attention to algorithm complexity
-
-
-Overview the of Linux kernel
-============================
-
-
-Linux development model
------------------------
-
-.. slide:: Linux development model
-   :level: 2
-
-   * Open source, GPLv2 License
-
-   * Contributors: companies, academia and independent developers
-
-   * Development cycle: 3 – 4 months which consists of a 1 - 2 week
-     merge window followed by bug fixing
-
-   * Features are only allowed in the merge window
-
-   * After the merge window a release candidate is done on a weekly
-     basis (rc1, rc2, etc.)
-
-The Linux kernel is one the largest open source projects in the world
-with thousands of developers contributing code and millions of lines of
-code changed for each release.
-
-It is distributed under the GPLv2 license, which simply put,
-requires that any modification of the kernel done on software that is
-shipped to customer should be made available to them (the customers),
-although in practice most companies make the source code publicly
-available.
-
-There are many companies (often competing) that contribute code to the
-Linux kernel as well as people from academia and independent
-developers.
-
-The current development model is based on doing releases at fixed
-intervals of time (usually 3 - 4 months). New features are merged into
-the kernel during a one or two week merge window. After the merge
-window, a release candidate is done on a weekly basis (rc1, rc2, etc.)
-
-
-Maintainer hierarchy
---------------------
-
-In order to scale the development process, Linux uses a hierarchical
-maintainership model:
-
-.. slide:: Maintainer hierarchy
-   :level: 2
-   :inline-contents: True
-
-   * Linus Torvalds is the maintainer of the Linux kernel and merges pull
-     requests from subsystem maintainers
-
-   * Each subsystem has one or more maintainers that accept patches or
-     pull requests from developers or device driver maintainers
-
-   * Each maintainer has its own git tree, e.g.:
-
-     * Linux Torvalds: git://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux-2.6.git
-
-     * David Miller (networking): git://git.kernel.org/pub/scm/linux/kernel/git/davem/net.git/
-
-   * Each subsystem may maintain a -next tree where developers can submit
-     patches for the next merge window
-
-Since the merge window is only a maximum of two weeks, most of the
-maintainers have a -next tree where they accept new features from
-developers or maintainers downstream while even when the merge window
-is closed.
-
-Note that bug fixes are accepted even outside merge window in the
-maintainer's tree from where they are periodically pulled by the
-upstream maintainer regularly, for every release candidate.
-
-
-
-Linux source code layout
--------------------------
-
-.. slide:: Linux source code layout
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-
-      +-------+
-      | linux |
-      +-+-----+
-        |
-        +------+--------+---------+---------+--------------+--------------+
-        |      |        |         |         |              |              |
-        |      v        v         v         v              v              v
-        |  +------+ +-------+ +-------+ +--------+ +---------------+ +---------+
-        |  | arch | | block | | certs | | crypto | | Documentation | | drivers |
-        |  +------+ +-------+ +-------+ +--------+ +---------------+ +---------+
-        |
-        +-------+----------+--------+---------+--------+--------+---------+
-        |       |          |        |         |        |        |         |
-        |       v          v        v         v        v        v         v
-        |  +----------+ +----+ +---------+ +------+ +-----+ +--------+ +-----+
-        |  | firmware | | fs | | include | | init | | ipc | | kernel | | lib |
-        |  +----------+ +----+ +---------+ +------+ +-----+ +--------+ +-----+
-        |
-        +-----+------+---------+------------+------------+------------+
-        |     |      |         |            |            |            |
-        |     v      v         v            v            v            v
-        |  +----+ +-----+ +---------+ +---------+  +----------+ +-------+
-        |  | mm | | net | | samples | | scripts |  | security | | sound |
-        |  +----+ +-----+ +---------+ +---------+  +----------+ +-------+
-        |
-        +------+--------+--------+
-               |        |        |
-               v        v        v
-           +-------+ +-----+ +------+
-           | tools | | usr | | virt |
-           +-------+ +-----+ +------+
-
-
-These are the top level of the Linux source code folders:
-
-* arch - contains architecture specific code; each architecture is
-  implemented in a specific sub-folder (e.g. arm, arm64, x86)
-
-* block - contains the block subsystem code that deals with reading
-  and writing data from block devices: creating block I/O requests,
-  scheduling them (there are several I/O schedulers available),
-  merging requests, and passing them down through the I/O stack to the
-  block device drivers
-
-* certs - implements support for signature checking using certificates
-
-* crypto - software implementation of various cryptography algorithms
-  as well as a framework that allows offloading such algorithms in
-  hardware
-
-* Documentation - documentation for various subsystems, Linux kernel
-  command line options, description for sysfs files and format, device
-  tree bindings (supported device tree nodes and format)
-
-* drivers - driver for various devices as well as the Linux driver
-  model implementation (an abstraction that describes drivers, devices
-  buses and the way they are connected)
-
-* firmware - binary or hex firmware files that are used by various
-  device drivers
-
-* fs - home of the Virtual Filesystem Switch (generic filesystem code)
-  and of various filesystem drivers
-
-* include - header files
-
-* init - the generic (as opposed to architecture specific)
-  initialization code that runs during boot
-
-* ipc - implementation for various Inter Process Communication system
-  calls such as message queue, semaphores, shared memory
-
-* kernel - process management code (including support for kernel
-  thread, workqueues), scheduler, tracing, time management, generic
-  irq code, locking
-
-* lib - various generic functions such as sorting, checksums,
-  compression and decompression, bitmap manipulation, etc.
-
-* mm - memory management code, for both physical and virtual memory,
-  including the page,  SL*B and CMA allocators, swapping, virtual memory
-  mapping, process address space manipulation, etc.
-
-* net - implementation for various network stacks including IPv4 and
-  IPv6; BSD socket implementation, routing, filtering, packet
-  scheduling, bridging, etc.
-
-* samples - various driver samples
-
-* scripts - parts the build system, scripts used for building modules,
-  kconfig the Linux kernel configurator, as well as various other
-  scripts (e.g. checkpatch.pl that checks if a patch is conform with
-  the Linux kernel coding style)
-
-* security - home of the Linux Security Module framework that allows
-  extending the default (Unix) security model as well as
-  implementation for multiple such extensions such as SELinux, smack,
-  apparmor, tomoyo, etc.
-
-* sound - home of ALSA (Advanced Linux Sound System) as well as the
-  old Linux sound framework (OSS)
-
-* tools - various user space tools for testing or interacting with
-  Linux kernel subsystems
-
-* usr - support for embedding an initrd file in the kernel image
-
-* virt - home of the KVM (Kernel Virtual Machine) hypervisor
-
-
-Linux kernel architecture
--------------------------
-
-.. slide:: Linux kernel architecture
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-      :height: 100%
-
-      +---------------+  +--------------+      +---------------+
-      | Application 1 |  | Application2 | ...  | Application n |
-      +---------------+  +--------------+      +---------------+
-              |                 |                      |
-              v                 v                      v
-      +--------------------------------------------------------+
-      |                       Kernel                           |
-      |                                                        |
-      |   +----------------------+     +-------------------+   |
-      |   |  Process Management  |     | Memory Management |   |
-      |   +----------------------+     +-------------------+   |
-      |                                                        |
-      |   +------------+    +------------+    +------------+   |
-      |   | Block I/O  |    |    VFS     |    | Networking |   |
-      |   +------------+    +------------+    +------------+   |
-      |                                                        |
-      |   +------------+    +------------+    +------------+   |
-      |   |    IPC     |    |  Security  |    |   Crypto   |   |
-      |   +------------+    +------------+    +------------+   |
-      |                                                        |
-      |   +------------+    +------------+    +------------+   |
-      |   |    DRM     |    |    ALSA    |    |    USB     |   |
-      |   +------------+    +------------+    +------------+   |
-      |                        ...                             |
-      +--------------------------------------+-----------------+
-      |           Device drivers             |     arch        |
-      |                                      |                 |
-      | +----+ +-----+ +--------+ +----+     |  +----------+   |
-      | |char| |block| |ethernet| |wifi|     |  | machine 1|   |
-      | +----+ +-----+ +--------+ +----+     |  +----------+   |
-      | +----------+ +-----+ +----+ +---+    |  +----------+   |
-      | |filesystem| |input| |iio | |usb|    |  | machine 2|   |
-      | +----------+ +-----+ +----+ +---+    |  +----------+   |
-      | +-----------+ +----------+  +---+    |                 |
-      | |framebuffer| | platform |  |drm|    |     ...         |
-      | +-----------+ +----------+  +---+    |                 |
-      +-------------------------+----+-------+-----------------+
-              |                 |                      |
-              v                 v                      v
-
-      +--------------------------------------------------------+
-      |                         Hardware                       |
-      +--------------------------------------------------------+
-
-
-arch
-....
-
-.. slide:: arch
-   :level: 2
-   :inline-contents: True
-
-   * Architecture specific code
-
-   * May be further sub-divided in machine specific code
-
-   * Interfacing with the boot loader and architecture specific
-     initialization
-
-   * Access to various hardware bits that are architecture or machine
-     specific such as interrupt controller, SMP controllers, BUS
-     controllers, exceptions and interrupt setup, virtual memory handling
-
-   * Architecture optimized functions (e.g. memcpy, string operations,
-     etc.)
-
-This part of the Linux kernel contains architecture specific code and
-may be further sub-divided in machine specific code for certain
-architectures (e.g. arm).
-
-"Linux was first developed for 32-bit x86-based PCs (386 or
-higher). These days it also runs on (at least) the Compaq Alpha AXP,
-Sun SPARC and UltraSPARC, Motorola 68000, PowerPC, PowerPC64, ARM,
-Hitachi SuperH, IBM S/390, MIPS, HP PA-RISC, Intel IA-64, DEC VAX, AMD
-x86-64 and CRIS architectures.”
-
-It implements access to various hardware bits that are architecture or
-machine specific such as interrupt controller, SMP controllers, BUS
-controllers, exceptions and interrupt setup, virtual memory handling.
-
-It also implements architecture optimized functions (e.g. memcpy,
-string operations, etc.)
-
-
-Device drivers
-..............
-
-.. slide:: Device drivers
-   :level: 2
-
-   * Unified device model
-
-   * Each subsystem has its own specific driver interfaces
-
-   * Many device driver types (TTY, serial, SCSI, fileystem, ethernet,
-     USB, framebuffer, input, sound, etc.)
-
-The Linux kernel uses a unified device model whose purpose is to
-maintain internal data structures that reflect the state and structure
-of the system. Such information includes what devices are present,
-what is their status, what bus they are attached to, to what driver
-they are attached, etc. This information is essential for implementing
-system wide power management, as well as device discovery and dynamic
-device removal.
-
-Each subsystem has its own specific driver interface that is tailored
-to the devices it represents in order to make it easier to write
-correct drivers and to reduce code duplication.
-
-Linux supports one of the most diverse set of device drivers type,
-some examples are: TTY, serial, SCSI, fileystem, ethernet, USB,
-framebuffer, input, sound, etc.
-
-
-Process management
-..................
-
-.. slide:: Process management
-   :level: 2
-
-   * Unix basic process management and POSIX threads support
-
-   * Processes and threads are abstracted as tasks
-
-   * Operating system level virtualization
-
-     * Namespaces
-
-     * Control groups
-
-Linux implements the standard Unix process management APIs such as
-fork(), exec(), wait(), as well as standard POSIX threads.
-
-However, Linux processes and threads are implemented particularly
-different than other kernels. There are no internal structures
-implementing processes or threads, instead there is a :c:type:`struct
-task_struct` that describe an abstract scheduling unit called task.
-
-A task has pointers to resources, such as address space, file
-descriptors, IPC ids, etc. The resource pointers for tasks that are
-part of the same process point to the same resources, while resources
-of tasks of different processes will point to different resources.
-
-This peculiarity, together with the `clone()` and `unshare()` system
-call allows for implementing new features such as namespaces.
-
-Namespaces are used together with control groups (cgroup) to implement
-operating system virtualization in Linux.
-
-cgroup is a mechanism to organize processes hierarchically and
-distribute system resources along the hierarchy in a controlled and
-configurable manner.
-
-
-Memory management
-.................
-
-Linux memory management is a complex subsystem that deals with:
-
-.. slide:: Memory management
-   :level: 2
-   :inline-contents: True
-
-   * Management of the physical memory: allocating and freeing memory
-
-   * Management of the virtual memory: paging, swapping, demand
-     paging, copy on write
-
-   * User services: user address space management (e.g. mmap(), brk(),
-     shared memory)
-
-   * Kernel services: SL*B allocators, vmalloc
-
-
-
-Block I/O management
-....................
-
-The Linux Block I/O subsystem deals with reading and writing data from
-or to block devices: creating block I/O requests, transforming block I/O
-requests (e.g. for software RAID or LVM), merging and sorting the
-requests and scheduling them via various I/O schedulers to the block
-device drivers.
-
-.. slide:: Block I/O management
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-      :height: 100%
-
-      +---------------------------------+
-      |    Virtual Filesystem Switch    |
-      +---------------------------------+
-                     ^
-                     |
-                     v
-      +---------------------------------+
-      |         Device Mapper           |
-      +---------------------------------+
-                     ^
-                     |
-                     v
-      +---------------------------------+
-      |       Generic Block Layer       |
-      +---------------------------------+
-                     ^
-                     |
-                     v
-      +--------------------------------+
-      |          I/O scheduler         |
-      +--------------------------------+
-             ^                ^
-             |                |
-             v                v
-      +--------------+  +--------------+
-      | Block device |  | Block device |
-      |    driver    |  |    driver    |
-      +--------------+  +--------------+
-
-
-Virtual Filesystem Switch
-.........................
-
-The Linux Virtual Filesystem Switch implements common / generic
-filesystem code to reduce duplication in filesystem drivers. It
-introduces certain filesystem abstractions such as:
-
-* inode - describes the file on disk (attributes, location of data
-  blocks on disk)
-
-* dentry - links an inode to a name
-
-* file - describes the properties of an opened file (e.g. file
-  pointer)
-
-* superblock - describes the properties of a formatted filesystem
-  (e.g. number of blocks, block size, location of root directory on
-  disk, encryption, etc.)
-
-.. slide:: Virtual Filesystem Switch
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-      :height: 100%
-
-
-             ^                    ^                    ^
-             | stat               | open               | read
-             v                    v                    v
-      +------------------------------------------------------------+
-      |                   Virtual Filesystem Switch                |
-      |                                                            |
-      |                                                            |
-      |    /-------\           /--------\           /--------\     |
-      |    | inode |<----------+ dentry |<----------+  FILE  |     |
-      |    \---+---/           \----+---/           \---+----/     |
-      |        |                    |                   |          |
-      |        |                    |                   |          |
-      |        v                    v                   v          |
-      |    +-------+           +--------+           +-------+      |
-      |    | inode |           | dentry |           | page  |      |
-      |    | cache |           | cache  |           | cache |      |
-      |    +-------+           +--------+           +-------+      |
-      |                                                            |
-      +------------------------------------------------------------+
-                   ^                                  ^
-                   |                                  |
-                   v                                  v
-            +-------------+                    +-------------+
-            | Filesystem  |                    | Filesystem  |
-            |   driver    |                    |   driver    |
-            +-------------+                    +-------------+
-
-
-The Linux VFS also implements a complex caching mechanism which
-includes the following:
-
-* the inode cache - caches the file attributes and internal file
-  metadata
-
-* the dentry cache - caches the directory hierarchy of a filesystem
-
-* the page cache - caches file data blocks in memory
-
-
-
-Networking stack
-................
-
-.. slide:: Networking stack
-   :level: 2
-   :inline-contents: True
-
-   .. ditaa::
-      :height: 100%
-
-      +---------------------------+
-      | Berkeley Socket Interface |
-      +---------------------------+
-
-      +---------------------------+
-      |      Transport layer      |
-      +-------------+-------------+
-      |      TCP    |     UDP     |
-      +-------------+-------------+
-
-      +---------------------------+
-      |      Network layer        |
-      +-----+---------+-----------+
-      | IP  | Routing | NetFilter |
-      +-----+---------+-----------+
-
-      +---------------------------+
-      |     Data link layer       |
-      +-------+-------+-----------+
-      |  ETH  |  ARP  | BRIDGING  |
-      +-------+-------+-----------+
-
-      +---------------------------+
-      |    Queuing discipline     |
-      +---------------------------+
-
-      +---------------------------+
-      | Network device drivers    |
-      +---------------------------+
-
-Linux Security Modules
-......................
-
-.. slide:: Linux Security Modules
-   :level: 2
-   :inline-contents: True
-
-   * Hooks to extend the default Linux security model
-
-   * Used by several Linux security extensions:
-
-     * Security Enhancened Linux
-
-     * AppArmor
-
-     * Tomoyo
-
-     * Smack
