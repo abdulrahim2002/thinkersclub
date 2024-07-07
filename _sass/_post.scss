@@ -33,6 +33,11 @@
   overflow-x: auto;
   padding: rem(40px) 0;
 
+  ::selection {
+    background: rgb(21, 66, 107);
+    color: white; 
+  }
+
   &.fullwidth {
     padding: rem(60px) rem(10px) 0;
   }
@@ -140,8 +145,8 @@
 
     code {
       font-size: rem(15px);
-      background: #282a36;
-      color: #fff;
+      background: #eaeaee;
+      color: #080808;
       word-wrap: break-word;
       padding: rem(3px) rem(5px);
       border-radius: 3px;
@@ -149,6 +154,86 @@
       @include media(">=sm") {
         font-size: rem(17px);
       }
+            /***** Show language in code blocks *****/
+      body pre[class^="language-"]::before {
+        font-size: rem(15px);
+        font-family: var(--font-default);
+        color: var(--text-muted);
+        font-size: var(--font-smaller);
+        font-weight: var(--font-semibold);
+        position: absolute;
+        right: 0.5em;
+        top: 0.5em;
+      }
+
+      body pre[class~='language-c']::before {
+        content: "C";
+      }
+      body pre[class~='language-cs']::before {
+        content: "C#";
+      }
+      body pre[class~='language-cpp']::before {
+        content: "C++";
+      }
+      body pre[class~='language-java']::before {
+        content: "JAVA";
+      }
+      body pre[class~='language-py']::before,
+      body pre[class~='language-python']::before {
+        content: "PYTHON";
+      }
+      body pre[class~='language-javascript']::before,
+        body pre[class~='language-js']::before {
+        content: "JS";
+      }
+      body pre[class~='language-html']::before {
+        content: "HTML";
+      }
+      body pre[class~='language-css']::before {
+        content: "CSS";
+      }
+      body pre[class~='language-xml']::before {
+        content: "XML";
+      }
+      body pre[class~='language-php']::before {
+        content: "PHP";
+      }
+
+      body pre[class~='language-shell']::before,
+      body pre[class~='language-bash']::before {
+        content: "SHELL";
+      }
+      body pre[class~='language-flow']::before {
+        content: "FLOW";
+      }
+      body pre[class~='language-sequence']::before {
+        content: "SEQUENCE";
+      }
+      body pre[class~='language-sql']::before {
+        content: "SQL";
+      }
+      body pre[class~='language-yml']::before,
+      body pre[class~='language-yaml']::before {
+        content: "YAML";
+      }
+      body pre[class~='language-ini']::before {
+        content: "INI";
+      }
+      body pre[class~='language-git']::before {
+        content: "GIT";
+      }
+      body pre[class~='language-txt']::before {
+        content: "TXT";
+      }
+      body pre[class~='language-r']::before {
+        content: "R";
+      }
+      // .markdown-rendered button.copy-code-button {
+      //   background-color: var(--background-secondary-alt);
+      // }
+      // .markdown-rendered button.copy-code-button:hover {
+      //   color: var(--text-accent);
+      // }
     }
   }
 

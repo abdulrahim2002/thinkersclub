@@ -1,23 +1,26 @@
 # Site Settings
 name: Thinkers Club
-title: check_title
-description: check
+title: Thinkers Club
+description: An Open Scientific Community
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - concept
+  - rfc
+  - preprint
+  - dev
 show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
+  - title: About # Add organizations aims, and linkedin
     url: /about
+  - title: Members
+    url: /members
   - title: Contact
     url: /contact
   - title: Contribute # add a contribute page so users can add their articles
     url: /contribute
+  - title: Privacy Statement
+    url: /privacy
   - title: Feed
     url: /feed.xml
 
@@ -31,11 +34,8 @@ formspree_form_id: formspree_form_id
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: abdulrahim2002
-twitter_username: arkhan3123
-instagram_username: abdul.rahim.2002/
-linkedin_username: cseabdulrahim/
-medium_username: abdulrahim2002
+github_username: abdulrahim2002/thinkersclub/
+linkedin_username: the-thinkers-club/
 
 
 # Posts Settings
@@ -48,7 +48,7 @@ future: true
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.thinkersclub.tech" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-XXXXXXX" #do not track users
 language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
@@ -67,7 +67,7 @@ use_logo: false
 
 # Content paginator
 paginate_content:
-  enabled: false
+  enabled: true
   debug: false
   collections:
     - posts
