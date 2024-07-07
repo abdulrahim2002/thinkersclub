@@ -115,6 +115,16 @@
                 src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
             </script>
         {% endif %}
+    
+    <!-- Utterences -->
+    <script src="https://utteranc.es/client.js"
+    repo="abdulrahim2002/thinkersclub"
+    issue-term="pathname"
+    label="auto-generated-by-utterence"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+    </script>
 	
 	<script type="application/ld+json">
         {
@@ -161,16 +171,6 @@
             "articleSection": "{{ page.category }}",
             "keywords": [{{ page.tags | join: '","' | append: '"' | prepend: '"' }}]
         }
-    </script>
-
-    <!-- Utterences -->
-    <script src="https://utteranc.es/client.js"
-        repo="abdulrahim2002/thinkersclub"
-        issue-term="pathname"
-        label="auto-generated-by-utterence"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
     </script>
 
     </body>
