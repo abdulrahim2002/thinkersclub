@@ -15,8 +15,8 @@ menu:
     url: /about
   - title: Members
     url: /members
-  - title: Contact
-    url: /contact
+  # - title: Contact # for the good
+  #   url: /contact
   - title: Contribute # add a contribute page so users can add their articles
     url: /contribute
   - title: Privacy Statement
