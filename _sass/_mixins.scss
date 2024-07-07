@@ -4,16 +4,27 @@
 //   font-style: normal;
 // }
 
+
 @mixin mainFont($weight: 700) {
-  font-family: "EB Garamond", "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
   font-weight: $weight;
   font-style: normal;
+
+  // For mobile devices
+  @media (max-width: 768px) {
+    font-family: "Lexend Deca", "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
+  }
+
+  // For computers and larger devices
+  @media (min-width: 769px) {
+    font-family: "EB Garamond", "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
+  }
 }
 
-// @mixin logoFont($weight: 600){
-//   font-family: 'Playfair Display', serif;
+// // want Lexend Deca for mobiles and EB Garamond for computers
+// @mixin mainFont($weight: 700) {
+//   font-family: "Lexend Deca", "EB Garamond", "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
 //   font-weight: $weight;
-//   letter-spacing: 2px;
+//   font-style: normal;
 // }
 
 @mixin logoFont($weight: 300){
