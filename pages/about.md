@@ -1,13 +1,13 @@
 ---
 layout: page
 menu: false
-date: '2023-07-21 05:53:59'
+date: '2024-07-21 05:53:59'
 title: About
 description: update
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Abdul Rahim" width="200">
+<img class="img-rounded" src="/assets/img/uploads/thinkersclub.png" alt="Thinkers Club" width="200">
 
 # About us
 

@@ -7,7 +7,7 @@ description: Privacy Statement
 permalink: /privacy/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/abdulrahim.png" alt="Thinkers Club logo" width="200">
+<img class="img-rounded" src="/assets/img/uploads/thinkersclub.png" alt="Thinkers Club logo" width="200">
 
 
 # Privacy Statement

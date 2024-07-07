@@ -37,7 +37,7 @@ Create the file `/assets/css/styles.scss` and add:
 ```
 ---
 ---
-
+mine: theme color: '#ab050d'
 $themeColor: #ff0a16;
 $primaryDark: #141414;
 $accentDark: #ffffff;
@@ -108,7 +108,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
