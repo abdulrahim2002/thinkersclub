@@ -18,11 +18,13 @@ author: abdulrahim
 
 ## Introduction
 
-So, I had a phone lying around for quite, and I was thinking how could I make use of it. It was a Oneplus 5 pro, and what fascinates me is that it has Qualcomm® Snapdragon™ 855, with 12 GB RAM and 256 GB storage. Then i began to think, given that phones nowadays are doing so well in all areas like gaming, why cant we use phones as servers, which led me into a refreshing journey of phones. Phones have ARM based processors and they use Android, which is based of linux kernel. ARM processors are known for their efficiency and recently they have made their way into server space. Apple is also pushing for ARM based computers with its m1 chip. As a person who enjoyes exploiting devices to their full potential, I began to explore ways in which I could use the phone for programming and development purposes.
+So, I had a phone lying around for quite, and I was thinking how could I make use of it. It was a Oneplus 5 pro, and what fascinates me is that it has Qualcomm® Snapdragon™ 855, with 12 GB RAM and 256 GB storage. Then i began to think, given that phones nowadays are doing so well in all areas like gaming, why cant we use phones as servers, which led me into a refreshing journey of phones. Phones have ARM based processors and they use Android, which is based of linux kernel. ARM processors are known for their efficiency and recently they have made their way into server space. Apple is also pushing for ARM based computers with its m1 chip. So, naturally as a person who enjoyes exploiting devices to their full potential, I began to explore ways in which I could use the phone for programming and development purposes.
 
-## Approach
+## Setup
 
-You would need a terminal to control a machine remotely, there are not alot of choices available in phone space when it comes to terminal emulators. Termux is one of the few available options, which is good. After you manage to open a terminal remotely, then from there its pretty frictionless.
+You would need a terminal to control a machine remotely, there are not alot of choices available in phone space when it comes to terminal emulators. Termux is one of the few available options. After you manage to open a terminal remotely, then from there its pretty frictionless. You can install the software of your choice and write, compile and run your programs. You might also find it helpful to root your phone for root privilages, which will help you run all commands. But please beware that rooting can null your warrenty, check with local expert. If termux does'nt work for you then there are also other options like [kali net hunter](https://www.mobile-hacker.com/2023/07/18/how-to-install-kali-nethunter-on-rooted-oneplus-7-pro/).
+
+So, in total, we need to install termux, then we would setup ssh.
 
 ## Termux
 
@@ -87,11 +89,11 @@ ssh <user_name>@<IP_address> -p 8022
 
 The username and IP address we already determined in step 5 and 6 resp. Note that it will promt you for password
 
+## Aftermath
+
+You can use [scp](https://linux.die.net/man/1/scp) command to transfer files between your computer and phone. In case you want to do development, there are a number of [programming packages](https://wiki.termux.com/wiki/Development_Environments) available in termux, you can find nodejs, python, C/C++ and tools for many other programming languages.
+
 ## Conclusion
 
-So, now you have successfully installed ssh in your android phone. You might find it useful to install vim, git, gccetc. There is a large [repository](https://termux.holehan.org/) of packages in termux, which covers pretty much everything your would need. You might also find it helpful to root your phone for root privilages, which will help you run all commands. But please beware that rooting can null your warrenty, check with local expert. If termux does'nt work for you then there are also other options like [kali net hunder](https://www.mobile-hacker.com/2023/07/18/how-to-install-kali-nethunter-on-rooted-oneplus-7-pro/)
-
-You can use [scp](https://linux.die.net/man/1/scp) command to transfer files between your computer and phone. 
-
-## Setting up a web server
+So, now you have successfully installed ssh in your android phone. You might find it useful to install vim, git, gccetc. There is a large [repository](https://termux.holehan.org/) of packages in termux, which covers pretty much everything your would need. 
 
