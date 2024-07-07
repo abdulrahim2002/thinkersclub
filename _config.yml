@@ -65,6 +65,7 @@ paginate_path: "/page/:num/"
 show_get_theme_btn: false
 use_logo: false
 
+paginate: 10 # inserted
 # Content paginator
 paginate_content:
   enabled: true
