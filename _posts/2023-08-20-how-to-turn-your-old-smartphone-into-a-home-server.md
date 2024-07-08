@@ -68,7 +68,7 @@ whoami
 ```
 ### Step 6: Note your IP address
 
-You can check your IP address in `settings > Wi-Fi > click on the (i) button, on the wifi you are connected to. Look for IPv4 address 
+You can check your IP address in `settings > Wi-Fi > click on the (i) button, on the wifi you are connected to`. Look for IPv4 address 
 
 
 ### Step 7: Run ssh doemon in termux
