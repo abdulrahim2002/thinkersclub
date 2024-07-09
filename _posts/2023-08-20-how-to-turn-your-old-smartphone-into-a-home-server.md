@@ -63,7 +63,7 @@ passwd
 
 You will require username and ip address when logging in using ssh, hence note them. Run the command `whoami` the know your username. This will generally start with "a0_"
 
-```bash
+```
 whoami
 ```
 ### Step 6: Note your IP address

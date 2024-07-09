@@ -1,8 +1,11 @@
-import os
+#! /usr/bin/python3
+
+from os.path import abspath, join, dirname, exists
 from datetime import datetime
 
-parentPath = os.getcwd()
-print(parentPath)
+root = dirname(abspath(__file__))
+posts_dir = join(root,"_posts")
+print(f"parent dir: {root}")
 
 def create_new_post(title):
     # Get the current date and time
@@ -18,64 +21,70 @@ def create_new_post(title):
     fullFormatDate = now.strftime("%Y-%m-%dT%H:%M:%S.000Z")
     subtitle = f"{title}"
     description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    image_url = "https://res.cloudinary.com/dz48emek2/image/upload/v1689964438/samples/food/spices.jpg"
-    optimized_image_url = "https://res.cloudinary.com/dz48emek2/image/upload/v1689964438/samples/food/spices.jpg"
+    image_url = "https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_760/v1720559138/default_bvrxw3.png"
+    optimized_image_url = "https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_760/v1720559138/default_bvrxw3.png"
     category = "dev"
-    tags = "\t- comp science\n\t- dev"
+    tags = "  - comp science\n  - dev"
     author = "thinkersclub"
 
     # Define the content of the post with front matter
     content = f"""---
-date: {fullFormatDate}\n
-layout: {layout}\n
-title: "{title}"\n
-subtitle: {subtitle}\n
-description: {description}\n
-image: {image_url}\n
-# image should be 760, 399 and optimised should be 380, 200\n
-optimized_image: {optimized_image_url}\n
-category: {category}\n
+date: {fullFormatDate}
+layout: {layout}
+title: '{title}'
+subtitle: {subtitle}
+description: {description}
+
+
+# host image at any image hosting service and paste url's here
+# image should be 760, 399
+image: {image_url}
+
+# and optimised should be 380, 200
+optimized_image: {optimized_image_url}
+category: {category}
 tags:
-{tags}\n
+{tags}
 author: {author}
 ---
 
-Your post content goes here.
+## somehting
+
+
+
+## adding images
+
+host your images somewhere, and put it here as:
+
+![image](url)
+
+host in cludinary or unsplash are good, because they let you control requested images in query parameters. 
+
+when hosting on cloudinary, upload the image. then after the upload add,
+
+/c_scale,w_780 
+
+for a width of 780.
+
+
+for example:
+https://cloudinary.com/documentation/resizing_and_cropping
 """
 
-    # Set the path to your Jekyll website's "_posts" directory
-    posts_dir = "_posts"
-    post_path = os.path.join(parentPath, posts_dir, post_filename)
-    print(post_path)
+    post_path = join(posts_dir, post_filename)
 
-    # Check if the post file already exists
-    if os.path.exists(post_path):
-        print(f"A post with the title '{title}' already exists.")
-        return
+    if exists(post_path):
+        print(f"Post {post_path} already exists")
+    else:
+        with open(post_path, "w") as f:
+            f.write(content)
+            print(f"created successfullt at: {post_path}")
+            return
 
-    # Create the new post file
-    with open(post_path, "w") as post_file:
-        post_file.write(content)
+def main():
+    title = input("Enter post title: ")
+    create_new_post(title)
 
-    print(f"New post '{title}' created successfully.")
 
 if __name__ == "__main__":
-    # Prompt the user for the post title
-    post_title = input("Enter the title for the new post: ")
-    create_new_post(post_title)
-
-"""
-# sample front matter for post
-# date: 2024-05-16T23:48:05.000Z
-# layout: post
-# title: "POST TITLE"
-# subtitle: POST SUBTITLE
-# description: POST DESCRIPTION
-# image: https://images.unsplash.com/photo-1520970014086-2208d157c9e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80
-# optimized_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?utm_medium=medium&w=700&q=50&auto=format
-# category: dev
-# tags:
-#   - tag1
-#   - tag2
-# author: abdulrahim
-"""
+    main()

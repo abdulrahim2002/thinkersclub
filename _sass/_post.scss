@@ -93,7 +93,7 @@
   }
 
   p.post-subtitle {
-    color: darken($lightGray, 30%);
+    color: darken($lightGray, 60%);
     font-size: rem(17px);
     margin: rem(10px) auto;
     line-height: 1.6;
@@ -118,7 +118,7 @@
     @include mainFont(300);
     font-size: rem(13px);
     letter-spacing: 0;
-    color: darken($lightGray, 30%);
+    color: darken($lightGray, 40%);
     margin: 0 auto;
 
     @include media(">=sm") {
