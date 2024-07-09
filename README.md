@@ -1,5 +1,7 @@
 the new branch name is the output of `TZ=Asia/Kolkata date +%Y%m%dT%H%M%S`
 
+## Note: THE COMMENTS FEATURE DOES NOT WORK IN CHROME BECAUSE OF CROSS ORIGIN (CROS)
+
 I intend to keep a landing page, with the thinker at front. but the problem is that it is picked up by hero page, hero page takes the latest post and put it in hero. To always keep a a post in page, *i have added a timestamp of distant, future*
 
 All posts would be older than this always, hence hero page wont change
