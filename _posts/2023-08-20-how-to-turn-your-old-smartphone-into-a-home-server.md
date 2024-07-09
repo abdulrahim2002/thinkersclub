@@ -4,11 +4,11 @@ layout: post
 title: "How to turn your old smartphone into a home server"
 subtitle: Have an extra phone lying around? Use it as a remote server. SSH into it, access its terminal. Transfer files using scp. And much more...
 description: Have an extra phone lying around? Use it as a remote server. SSH into it, access its terminal. Transfer files using scp. And much more...
-image: https://upload.wikimedia.org/wikipedia/commons/6/69/Wikimedia_Foundation_Servers-8055_35.jpg
+image: https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_760/v1720556907/termux_bugka5.png
 
 # image should be 760, 399 and optimised should be 380, 200
 # ![placeholder](http://link//to//image "description text")
-optimized_image: https://res.cloudinary.com/dz48emek2/image/upload/v1689964438/samples/food/spices.jpg
+optimized_image: https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_399/v1720556907/termux_bugka5.png
 category: dev
 tags:
   - ssh
