@@ -1,18 +1,3 @@
-# reference frontmatter
-# date: 2019-05-16T23:48:05.000Z
-# layout: post
-# title: "New"
-# subtitle: New Post
-# description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut et dolore magna aliqua.
-# image: https://images.unsplash.com/photo-1520970014086-2208d157c9e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80
-
-# optimized_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?utm_medium=medium&w=700&q=50&auto=format
-# category: life
-# tags:
-#   - life
-#   - tips
-# author: abdulrahim
-
 import os
 from datetime import datetime
 
@@ -31,13 +16,13 @@ def create_new_post(title):
     # Set the front matter data
     layout = "post"
     fullFormatDate = now.strftime("%Y-%m-%dT%H:%M:%S.000Z")
-    subtitle = f"{title} Post"
+    subtitle = f"{title}"
     description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     image_url = "https://res.cloudinary.com/dz48emek2/image/upload/v1689964438/samples/food/spices.jpg"
     optimized_image_url = "https://res.cloudinary.com/dz48emek2/image/upload/v1689964438/samples/food/spices.jpg"
-    category = "life"
-    tags = "- life\n  - tips"
-    author = "abdulrahim"
+    category = "dev"
+    tags = "\t- comp science\n\t- dev"
+    author = "thinkersclub"
 
     # Define the content of the post with front matter
     content = f"""---
@@ -48,7 +33,6 @@ subtitle: {subtitle}\n
 description: {description}\n
 image: {image_url}\n
 # image should be 760, 399 and optimised should be 380, 200\n
-# ![placeholder](http://link//to//image "description text")
 optimized_image: {optimized_image_url}\n
 category: {category}\n
 tags:
@@ -79,3 +63,19 @@ if __name__ == "__main__":
     # Prompt the user for the post title
     post_title = input("Enter the title for the new post: ")
     create_new_post(post_title)
+
+"""
+# sample front matter for post
+# date: 2024-05-16T23:48:05.000Z
+# layout: post
+# title: "POST TITLE"
+# subtitle: POST SUBTITLE
+# description: POST DESCRIPTION
+# image: https://images.unsplash.com/photo-1520970014086-2208d157c9e2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80
+# optimized_image: https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?utm_medium=medium&w=700&q=50&auto=format
+# category: dev
+# tags:
+#   - tag1
+#   - tag2
+# author: abdulrahim
+"""
