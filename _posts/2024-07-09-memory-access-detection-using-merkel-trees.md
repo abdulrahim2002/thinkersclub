@@ -20,9 +20,9 @@ author: abdulrahim
 
 ## Introduction
 
-Computer memory is usually implemented as a file system[^1]. While tampering of data is easy to detect, unauthorised access to memory is a more complex task. A problem that lies in the domain of Intrusion Detection Systems[^some]. While, most intrusion detection focus on analyzing network traffic, 
+Computer memory is usually implemented as a file system. While tampering of data is easy to detect, unauthorised access to memory is a more complex task. A problem that lies in the domain of Intrusion Detection Systems. While, most intrusion detection focus on analyzing network traffic, 
 
-Moreover, if unauthorised access to memory cannot be detected, user of the computer would never know that the system was compromised. Detecting tampered files is easy, you can hash the contents of the file and when the hash changes (probably without your knowledge), you might conclude that the file was tampered with. But detecting memory access is a more complicated problem. Although linux does keep track of the last access timestamp, available via that `stat` command[^stat]. It will only keep track of file accesses that use `read()` syscall[^2]. A malicious actor may still be able to access memory with detection, directly interfacing with hardware.
+Moreover, if unauthorised access to memory cannot be detected, user of the computer would never know that the system was compromised. Detecting tampered files is easy, you can hash the contents of the file and when the hash changes (probably without your knowledge), you might conclude that the file was tampered with. But detecting memory access is a more complicated problem. Although linux does keep track of the last access timestamp, available via that `stat` command[^stat]. It will only keep track of file accesses that use `read()` syscall[^read]. A malicious actor may still be able to access memory with detection, directly interfacing with hardware.
 
 In this article, I have described an approach to detect accesses to memory usign merkel trees. The approach advocates for encryption of the underlying memory, and the decryption be done in software. We will use a `polluted` flag to identify the files/blocks that have been accessed without user authentication.
 
@@ -66,14 +66,14 @@ The benefit of this approach is that all other nodes remain valid. Hence, if one
 
 
 ## Conclusion
-The underlying memory would be encrypted, and access would only be allowed through an API.
 
-We will allow an access with invalid credentials, but will flag the file accessed as polluted.
+We, described an approach to detect memory access, which relies on merkel trees along with encryption.
 
-This pollution would show up in the tree. Which makes the tracing easier.
+However, one might argue that access detection can simply be done with encrypted memory, all failed authentication attempts are simply unauthorised access detection. While this is true, but keeping track of such a system will be expensive in terms of space, since each block will have its own database of illegal access. Also to manage such a system would be difficult.
+
+Our approach provides a better solution, firstly it provides a structure that can be incorporated with existing filesystems, requiring mimnimal change. Secondly, it provides an efficient method for detection of files that might be accessed.
                                                                                                                                                              
 ## Refrences
 
-[^1]: [NTFS vs FAT](https://dnl.tebyan.net/Library/Books/pdf/English/0075f27de8b7d47e87ab6969dac55433.pdf)
-[^2]: [read syscall](https://en.wikipedia.org/wiki/Read_(system_call))
 [^stat]: [stat man page](https://linux.die.net/man/2/stat)
+[^read]: [read syscall](https://en.wikipedia.org/wiki/Read_(system_call))
