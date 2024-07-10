@@ -20,7 +20,7 @@ author: abdulrahim
 
 ## Introduction
 
-Computer memory is usually implemented as a file system. While tampering of data is easy to detect, unauthorised access to memory is a more complex task. A problem that lies in the domain of Intrusion Detection Systems. While, most intrusion detection focus on analyzing network traffic, 
+Computer memory is usually implemented as a file system. While tampering of data is easy to detect, unauthorised access to memory is a more complex task. A problem that lies in the domain of Intrusion Detection Systems. While, most intrusion detection focus on analyzing network traffic, or machine learning techniques to identify suspicious patterns. We propose a method that works within the system, providing robust access detection.
 
 Moreover, if unauthorised access to memory cannot be detected, user of the computer would never know that the system was compromised. Detecting tampered files is easy, you can hash the contents of the file and when the hash changes (probably without your knowledge), you might conclude that the file was tampered with. But detecting memory access is a more complicated problem. Although linux does keep track of the last access timestamp, available via that `stat` command[^stat]. It will only keep track of file accesses that use `read()` syscall[^read]. A malicious actor may still be able to access memory with detection, directly interfacing with hardware.
 
@@ -48,7 +48,7 @@ The memory access system call needs to be implemented in such a way that when on
 
 The file system in most operating systems follows a hierarchial structure, we augment this with merkel tree, hence a node would be attached to each file in the file system, these node would form a merkel tree, where each node would contain hash of its children in case of non-leaf nodes and hash of the file data in case of files. In addition a **pollution flag** would be attached to each node, to discern files that have been accessed without authorization.
 
-Also, there will be an **expected hash** for each node, which is the hash if the node is valid. Expected hash would contain the last hash value when the subtree below that node was valid. So, for example 
+Also, there will be an **expected hash** for each node, which is the hash if the node is valid. Expected hash would contain the last hash value when the subtree below that node was valid.
 
 
 ## Working
