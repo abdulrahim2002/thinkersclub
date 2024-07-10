@@ -1,5 +1,5 @@
 ---
-date: 2024-08-20T01:04:38.000Z
+date: 2024-02-20T01:04:38.000Z
 layout: post
 title: "How to turn your old smartphone into a home server"
 subtitle: Have an extra phone lying around? Use it as a remote server. SSH into it, access its terminal. Transfer files using scp. And much more...
