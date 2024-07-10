@@ -42,18 +42,28 @@ In addition to merkel trees, we would need encryption. Also, the encryption shou
 
 ## Memory Access System Call
 
-The memory access system call needs to be implemented in such a way that when one accesses memory the data would be decrypted and other [function](#working)  would be performed.
+The memory access system call needs to be implemented in such a way that when one accesses memory the data would be decrypted and other [functions](#working)  would be performed.
 
 ## Architecture
 
-The file system in most operating systems follows a hierarchial structure, we augment this with merkel tree, hence a node would be attached to each file in the file system, these node would form a merkel tree, where each node would contain hash of its children in case of directories and hash of the file data in case of files. In addition a **pollution flag** would be attached to each node, to discern compromised files. 
+The file system in most operating systems follows a hierarchial structure, we augment this with merkel tree, hence a node would be attached to each file in the file system, these node would form a merkel tree, where each node would contain hash of its children in case of non-leaf nodes and hash of the file data in case of files. In addition a **pollution flag** would be attached to each node, to discern files that have been accessed without authorization.
 
-Each leaf node of the merkel tree 
+Also, there will be an **expected hash** for each node, which is the hash if the node is valid. Expected hash would contain the last hash value when the subtree below that node was valid. So, for example 
 
 
 ## Working
 
-When a user/process requests memory, it will go through our system call, which would prompt for password. Once the password is provided the underlying data would be decrypted and 
+Pollution flag is set if `expected_hash != hash`, which would **only** occur if either the memory was accessed or tampered in an unauthorised way. I will explain this in a moment.
+
+When a user/process requests memory, it will go through our system call, which would require authentication. Once the authentication is successfull underlying data would be decrypted and returned, the access time would change, and all the hashes upto root change along with expected hash(*note that we change expected hash on authorised access*). The tree remains valid.
+
+And if the authentication fails, then what would happen is the memory will not be returned, but the access time would change. 
+The consequence of this is that when next time, tree would be re-evaluated, the hash of this node would change, since it incorporates accesss time, but the expected hash would remain same, leading to pollution flag being set for this node.
+
+And since the parent of this node uses this nodes hash, the parents hash would also change. But its expected hash also remains the same, leading it to becoming invalidated. The same process would happen all up the tree. Leading to the whole tree becoming invalidated.
+
+The benefit of this approach is that all other nodes remain valid. Hence, if one tries to triage, which file it was and what was the timestamp, then it is easy to point out the exact file, because one only needs to follow invalid nodes top to bottom.
+
 
 ## Conclusion
 The underlying memory would be encrypted, and access would only be allowed through an API.
