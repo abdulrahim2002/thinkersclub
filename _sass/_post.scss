@@ -56,7 +56,7 @@
   figcaption,
   img + em {
     display: block;
-    color: darken($lightGray, 30%);
+    color: darken($lightGray, 50%);
     text-align: center;
     @include mainFont(300);
   }

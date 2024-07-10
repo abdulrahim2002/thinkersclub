@@ -2,14 +2,14 @@
 date: 2024-07-08T17:17:28.000Z
 layout: post
 title: "Memory Access Detection using Merkel Trees"
-subtitle: (Concept) Detecting access to memory using Merkel trees
-description: A novel approach to detection of unauthorised memory access, which enables one to identify weather a file/memory block was accessed/tampered.
-image: https://res.cloudinary.com/dz48emek2/image/upload/c_scale,w_760/v1689964438/samples/food/spices.jpg
-# image should be 760, 399 and optimised should be 380, 200
+subtitle: (Concept) In a novel approach, we explore application of Merkel Trees in detection of unauthorised access
+description: A novel approach to detection of unauthorised memory access, which enables one to identify weather a file/memory block was accessed/tampered
+image: https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_760/v1720599290/merkeltreeindirectorytree_dcftly.jpg
 
+# image should be 760, 399 and optimised should be 380, 200
 # scaling in url: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_800/v1506079212/jekflix-capa_vfhuzh.png
-# ![placeholder](http://link//to//image "description text")
-optimized_image: https://res.cloudinary.com/dz48emek2/image/upload/c_scale,w_380/v1689964438/samples/food/spices.jpg
+
+optimized_image: https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_380/v1720599290/merkeltreeindirectorytree_dcftly.jpg
 category: concept
 tags:
     - file system
@@ -20,9 +20,9 @@ author: abdulrahim
 
 ## Introduction
 
-Computer memory is usually implemented as NTFS or FAT32[^1]. While, data on disks is generally considered secure. One with appropriate setup can access individual memory blocks in hardware without any authentication. This is because memory is not protected at hardware level, and authentication is usually implemented in software.
+Computer memory is usually implemented as a file system[^1]. While tampering of data is easy to detect, unauthorised access to memory is a more complex task. A problem that lies in the domain of Intrusion Detection Systems[^some]. While, most intrusion detection focus on analyzing network traffic, 
 
-Moreover, if unauthorised access to memory cannot be detected, user of the computer would never know that the system was compromised. Currently, there is no reliable method of detecting weather a file has been accessed. Detecting tampered files is easy, you can hash the contents of the file and when the hash (probably without your knowledge) changes, you might conclude that the file was tampered with. But detecting memory access is a more complicated problem. Although linux does keep track of the last access timestamp, available via that `stat` command. It will only keep track of file accesses that use `read()` syscall[^2]. A malicious actor may still be able to access memory without detection, directly interfacing with hardware.
+Moreover, if unauthorised access to memory cannot be detected, user of the computer would never know that the system was compromised. Detecting tampered files is easy, you can hash the contents of the file and when the hash changes (probably without your knowledge), you might conclude that the file was tampered with. But detecting memory access is a more complicated problem. Although linux does keep track of the last access timestamp, available via that `stat` command[^stat]. It will only keep track of file accesses that use `read()` syscall[^2]. A malicious actor may still be able to access memory with detection, directly interfacing with hardware.
 
 In this article, I have described an approach to detect accesses to memory usign merkel trees. The approach advocates for encryption of the underlying memory, and the decryption be done in software. We will use a `polluted` flag to identify the files/blocks that have been accessed without user authentication.
 
@@ -30,6 +30,10 @@ In this article, I have described an approach to detect accesses to memory usign
 ## Merkel Trees
 
 Merkel trees are a tree data structure in which hashes are stored rather than data. Leaf nodes store hashes of a particular block of data, while other nodes store hashes of their children. Merkel trees are widely used in blockchains, for its ability to detect tampering of data items. It provides a robust mechanism to detect tampering in multiple distinct data items. The idea is that if any of the data items in leaf node changes, the whole tree would become invalidated, since it will change the hashes of all nodes up the tree.
+
+
+![Merkel tree]( https://res.cloudinary.com/dg6zyzzwr/image/upload/v1720603045/merkel_tree_vr2ji1.png)
+*Fig. 1: A merkel tree is a data structure in which each node contains a hash. All non leaf nodes contain hash(hash of their childrens) and all leaf nodes contain hash(underlying data)*
 
 
 ## Encryption
@@ -61,5 +65,5 @@ This pollution would show up in the tree. Which makes the tracing easier.
 ## Refrences
 
 [^1]: [NTFS vs FAT](https://dnl.tebyan.net/Library/Books/pdf/English/0075f27de8b7d47e87ab6969dac55433.pdf)
-[^2]: [read syscall](https://en.wikipedia.org/wiki/Read_\(system_call\))
-
+[^2]: [read syscall](https://en.wikipedia.org/wiki/Read_(system_call))
+[^stat]: [stat man page](https://linux.die.net/man/2/stat)
