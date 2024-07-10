@@ -12,11 +12,20 @@ permalink: /about/
 # About us
 
 The thinkers club is an open platform, for sharing scientific works including but not limited to,  concept papers, Request For Comment(RFC) papers, preprint papers. Sharing of scientific ideas not only attracts potential contributors, but also encourages aspiring researchers, to assimilate in the community. 
-The thinkers club was conceptualised by Abdul Rahim, while at college. The main aim of the club was to enable interdisciplinary collaboration in research and development. Initially started as a an informal group of students, Later a need for an open platform was realised. An open platform that 
+The main aim of the club was to enable interdisciplinary collaboration in research and development.
 
 # How it works
-
+TODO
 
 # Future Roadmap
 
 We are considering to enable, user generated content, on the website.
+
+so a user would be able to create posts from within the website, 
+currently to create a post the user would have to fork the repo 
+add post to their fork and then submit a merge request
+if it gets accepted their article make their way to the website
+, while this method is good
+because the friction in publishing would hopefully promote better 
+quality articles, but it also makes it difficult for newcommers to
+contribute.

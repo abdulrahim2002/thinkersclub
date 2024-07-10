@@ -38,11 +38,11 @@ Merkel trees are a tree data structure in which hashes are stored rather than da
 
 ## Encryption
 
-In addition to merkel trees, we would need encryption. Since, all our measures are of no use if an adversiry can simply access unencrypted data in hardware. Also, the encryption should be done in hardware, and the memory access system calls should define protocalls for decrypting underlying memory, also the same system call would change the necessary variables of the file in question, for example access time etc.
+In addition to merkel trees, we would need encryption. Also, the encryption should be done in hardware, and the memory access system calls should define protocalls for decrypting underlying memory, also the same system call would change the necessary variables of the file in question, for example access time etc.
 
 ## Memory Access System Call
 
-The memory access system call needs to be implemented in such a way that when one accesses memory the data would be decrypted and other functions[#working] would be performed.
+The memory access system call needs to be implemented in such a way that when one accesses memory the data would be decrypted and other [function](#working)  would be performed.
 
 ## Architecture
 
