@@ -27,7 +27,7 @@ A fork is your own copy of a repo that you own and you can change it.
 
 Click on code and select the ssh. Copy the ssh url. It starts with `git@github.com:`. Please ensure that you have your ssh key setup with your github account, if not follow this two instruction: [generating ssh key and adding it to your accuont](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=windows) or [follow this simeple tutorial](https://www.youtube.com/watch?v=iVJesFfzDGs).
 
-![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_760/v1720728791/Screenshot_from_2024-07-12_01-42-48_wnjtgi.png)
+![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1800/v1720728791/Screenshot_from_2024-07-12_01-42-48_wnjtgi.png)
 *Fig. 2: Copy the ssh url*
 
 Open terminal, change to the directory where you want to store the repo. And run the following command:
@@ -85,11 +85,7 @@ Make your changes accordingly. If you have any doubts contact me.
 
 ```
 git add .
-<<<<<<< HEAD
-git commit -m "commit message, preferably following conventions: https://www.conventionalcommits.org/en/v1.0.0/"
-=======
-git commit -m # commit message, preferably following conventions
->>>>>>> 9663d42d23cdc24c779de1eebe6e54baedc0a050
+git commit -m "commit message, preferably following conventions"
 git push --set-upstream origin tutorial
 ```
 
@@ -100,35 +96,22 @@ See, [commit conventions](https://www.conventionalcommits.org/en/v1.0.0/)
 
 Go to github and create a pull request.
 
-<<<<<<< HEAD
-![](https://res.cloudinary.com/dg6zyzzwr/image/upload/s_scale,w_1080/v1720734359/0723d197-ee8a-47d6-9cea-18e905a68663.png)
-=======
-![](https://res.cloudinary.com/dg6zyzzwr/image/upload/s_scale,w_1800/v1720734359/0723d197-ee8a-47d6-9cea-18e905a68663.png)
->>>>>>> 9663d42d23cdc24c779de1eebe6e54baedc0a050
-*Click and the compare and pull request*
+![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1800/v1720734359/0723d197-ee8a-47d6-9cea-18e905a68663.png)
+*Fig. 3: Click and the compare and pull request*
 
 Make sure that, to base repository is `abdulrahim2002/thinkersclub` and base branch is `main`
 
-<<<<<<< HEAD
-![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1080/v1720734543/8eda041b-e862-45d4-990e-a851859e47a9.png) 
-=======
 ![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1800/v1720734543/8eda041b-e862-45d4-990e-a851859e47a9.png) 
->>>>>>> 9663d42d23cdc24c779de1eebe6e54baedc0a050
+*Fig. 4: Create pull request*
 
 Resolve merge conflicts (if any).
 
 To check, ensure that your pull request appears in, [issues](https://github.com/abdulrahim2002/thinkersclub/pulls).
 
 
-<<<<<<< HEAD
-
-
-=======
->>>>>>> 9663d42d23cdc24c779de1eebe6e54baedc0a050
-Voillaa!! you made it. Contact me, to review and accept.
+Voillaa!! you made it. Contact me, so i can review and accept your changes.
 
 In case you have any doubts, please feel free to reach out at abdulrahimhere[at]yahoo.com
-
 
 
 ### Thanks for reading
