@@ -87,11 +87,32 @@ Make your changes accordingly. If you have any doubts contact me.
 ```
 git add .
 git commit -m "commit message, preferably following conventions: https://www.conventionalcommits.org/en/v1.0.0/"
-git push
+git push --set-upstream origin tutorial
 ```
 
 4. Step 6: create a pull request from your feature branch
 
 Go to github and create a pull request.
 
+![](https://res.cloudinary.com/dg6zyzzwr/image/upload/s_scale,w_1080/v1720734359/0723d197-ee8a-47d6-9cea-18e905a68663.png)
+*Click and the compare and pull request*
+
+Make sure that, to base repository is `abdulrahim2002/thinkersclub` and base branch is `main`
+
+![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1080/v1720734543/8eda041b-e862-45d4-990e-a851859e47a9.png) 
+
+Resolve merge conflicts (if any).
+
+To check, ensure that your pull request appears in, [issues](https://github.com/abdulrahim2002/thinkersclub/pulls).
+
+
+
+
+Voillaa!! you made it. Contact me, to review and accept.
+
+In case you have any doubts, please feel free to reach out at abdulrahimhere[at]yahoo.com
+
+
+
+### Thanks for reading
 
