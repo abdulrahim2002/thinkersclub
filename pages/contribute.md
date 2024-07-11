@@ -25,7 +25,7 @@ A fork is your own copy of a repo that you own and you can change it.
 
 -  Step 2: clone your newly forked repo
 
-Click on code and select the ssh. Copy the ssh url. It starts with `git@github.com:`. Please ensure that you have your ssh key setup with your github account, if not follow this two instruction: [generating ssh key and adding it to your accuont](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=windows) or [follow this simeple tutorial](https://www.youtube.com/watch?v=iVJesFfzDGs).
+Click on code and select the ssh. Copy the ssh url. It starts with `git@github.com:`. Please ensure that you have your ssh key setup with your github account, if not follow these instructions: [generating ssh key and adding it to your accuont](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=windows) or [follow this simeple tutorial](https://www.youtube.com/watch?v=iVJesFfzDGs).
 
 ![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1800/v1720728791/Screenshot_from_2024-07-12_01-42-48_wnjtgi.png)
 *Fig. 2: Copy the ssh url*
@@ -36,15 +36,15 @@ Open terminal, change to the directory where you want to store the repo. And run
 git clone <url_you_just_copied>
 ```
 
-To keep track of changes in [original repo](https://github.com/abdulrahim2002/thinkersclub/) you might find it useful to add upstream, bu running:
+To keep track of changes in [original repo](https://github.com/abdulrahim2002/thinkersclub/) you might find it useful to add upstream, by running:
 
 ```bash
 git remote add upstream git@github.com:abdulrahim2002/thinkersclub.git
 ```
 
-This will add upstream as a remote in your local repository so your can run `git fetch` to *fetch* changes and then successively run `git merge upstream/main origin/main` to get those changes in your *main*.
+This will add upstream as a remote in your local repository so your can run `git fetch` to *fetch* changes and then successively run `git merge origin/main` to get those changes in your *main*.
 
-Subsequently you can do the following to keep up to date:
+Subsequently, you can do the following to keep up to date:
 
 ```
 git fetch upstream      # fetches latest changes from original repository to your upstream
@@ -74,9 +74,9 @@ Make the desired changes in your preferred code editor, here's some common chang
 
 - Add a post: You can add a new post. 
     - All posts are stored in `_posts` directory. 
-    - You can use the `initpost.py` script provided. or manually add a post, following conventions.
+    - You can use the `initpost.py` script provided. or manually add a post is `_posts` directory.
     - Open the file you created and change its contents. 
-    - Change the front matter properties. At top of file and change the contents as your like. **All posts are written in markdown.** and html/css is supported.
+    - Change the front matter properties. At top of file and change the contents as your like. **All posts are written in markdown,** and html/css is supported.
     - You can upload the images at any cloud image hosting service like [cloudinary](https://cloudinary.com/), [unsplash](https://unsplash.com/) etc. But cloudnary is a good option since it lets you, resize images dynamically using query parameters. Just upload your image to cloudnary, get the url. In the url, add parameters, `c_scale,w_760`(760 width), just after the /upload. Here's the [documentation](https://cloudinary.com/documentation/resizing_and_cropping).
 
 Make your changes accordingly. If you have any doubts contact me.
