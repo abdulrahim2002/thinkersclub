@@ -13,23 +13,22 @@ math: true
 
 # Contributions
 
-To contribute to out website your need to clone this repo, add your post using `initpost.py` or manually adding your post in `_posts`. Please note the front matter properties. 
+To contribute to the website you need to fork to repository, make changes to your fork and submit a pull request, below are the detailed steps for your reference:
 
-
-1. Step 1: Fork the repo
+- Step 1: Fork the repo
 
 A fork is your own copy of a repo that you own and you can change it.
 
-![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1080/v1720728478/Screenshot_from_2024-07-12_01-37-03_g8qrio.png)
+![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1800/v1720728478/Screenshot_from_2024-07-12_01-37-03_g8qrio.png)
 *Fig. 1: Click on the fork button*
 
 
-2. Step 2: clone your newly forked repo
+-  Step 2: clone your newly forked repo
 
-Click on code and select the ssh. Copy the ssh url. It starts with `git@github.com:`. Please ensure that you have your ssh key setup with your github account, if not follow this two instruction: [generating ssh key and adding it to your accuont](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=windows) and [adding ssh key to your github account](), or [follow this simeple tutorial](https://www.youtube.com/watch?v=iVJesFfzDGs).
+Click on code and select the ssh. Copy the ssh url. It starts with `git@github.com:`. Please ensure that you have your ssh key setup with your github account, if not follow this two instruction: [generating ssh key and adding it to your accuont](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent?platform=windows) or [follow this simeple tutorial](https://www.youtube.com/watch?v=iVJesFfzDGs).
 
 ![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_760/v1720728791/Screenshot_from_2024-07-12_01-42-48_wnjtgi.png)
-*Fig. 2: Click on the *
+*Fig. 2: Copy the ssh url*
 
 Open terminal, change to the directory where you want to store the repo. And run the following command:
 
@@ -57,7 +56,7 @@ As a rule of thumb, create new branches in your remote with sensible name(descri
 
 And keep the main branch to fetch changes only and to keep latest copy.
 
-3. Step 3: Switch to new feature branch.
+- Step 3: Switch to new feature branch.
 
 Create a new feature branch, with a descriptive name, i.e. the name should describe the update you make.
 
@@ -65,7 +64,7 @@ Create a new feature branch, with a descriptive name, i.e. the name should descr
 git checkout -b tutorial # creates a new branch tutorial and switches to it
 ```
 
-4. Step 4: 
+- Step 4: 
 
 Make the desired changes in your preferred code editor, here's some common changes you might wanna make.
 
@@ -82,30 +81,31 @@ Make the desired changes in your preferred code editor, here's some common chang
 
 Make your changes accordingly. If you have any doubts contact me.
 
-5. Step 5: Commit and push your changes
+- Step 5: Commit and push your changes
 
 ```
 git add .
-git commit -m "commit message, preferably following conventions: https://www.conventionalcommits.org/en/v1.0.0/"
+git commit -m # commit message, preferably following conventions
 git push --set-upstream origin tutorial
 ```
 
-4. Step 6: create a pull request from your feature branch
+See, [commit conventions](https://www.conventionalcommits.org/en/v1.0.0/)
+
+
+- Step 6: create a pull request from your feature branch
 
 Go to github and create a pull request.
 
-![](https://res.cloudinary.com/dg6zyzzwr/image/upload/s_scale,w_1080/v1720734359/0723d197-ee8a-47d6-9cea-18e905a68663.png)
+![](https://res.cloudinary.com/dg6zyzzwr/image/upload/s_scale,w_1800/v1720734359/0723d197-ee8a-47d6-9cea-18e905a68663.png)
 *Click and the compare and pull request*
 
 Make sure that, to base repository is `abdulrahim2002/thinkersclub` and base branch is `main`
 
-![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1080/v1720734543/8eda041b-e862-45d4-990e-a851859e47a9.png) 
+![](https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_1800/v1720734543/8eda041b-e862-45d4-990e-a851859e47a9.png) 
 
 Resolve merge conflicts (if any).
 
 To check, ensure that your pull request appears in, [issues](https://github.com/abdulrahim2002/thinkersclub/pulls).
-
-
 
 
 Voillaa!! you made it. Contact me, to review and accept.
