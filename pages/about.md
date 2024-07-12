@@ -14,9 +14,6 @@ permalink: /about/
 The thinkers club is an open platform, for sharing scientific works including but not limited to,  concept papers, Request For Comment(RFC) papers, preprint papers. Sharing of scientific ideas not only attracts potential contributors, but also encourages aspiring researchers, to assimilate in the community. 
 The main aim of the club was to enable interdisciplinary collaboration in research and development.
 
-# How it works
-TODO
-
 # Future Roadmap
 
 We are considering to enable, user generated content, on the website.
