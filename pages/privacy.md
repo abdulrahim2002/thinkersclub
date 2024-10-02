@@ -10,8 +10,9 @@ permalink: /privacy/
 <img class="img-rounded" src="/assets/img/uploads/thinkersclub.png" alt="Thinkers Club logo" width="200">
 
 
-# Privacy 
-Statement At Thinkers Club, we prioritize your privacy and are
+# Privacy Statement
+
+At Thinkers Club, we prioritize your privacy and are
 committed to protecting your personal information. We understand the
 importance of maintaining your trust, and our privacy practices are
 designed to reflect our dedication to safeguarding your data. Firstly,
