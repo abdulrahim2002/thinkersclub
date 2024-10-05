@@ -2,9 +2,9 @@
 date: 2024-06-01T14:22:31.000Z
 layout: post
 title: 'How to compile vim with clipboard support'
-subtitle: One major problem beginners face with vim is the inability to copy from/to system clipboard. While usually this problem is solved by installing gvim; an unnecessary bloat. In this article we discover how we can compile vim with clipboard support.
+subtitle: One major problem with vim is the inability to copy from/to system clipboard. In this article we discover how we can compile vim with clipboard support.
 
-description: One major problem beginners face with vim is the inability to copy from/to system clipboard. While usually this problem is solved by installing gvim; an unnecessary bloat. In this article we discover how we can compile vim with clipboard support.
+description: One major problem with vim is the inability to copy from/to system clipboard. In this article we discover how we can compile vim with clipboard support.
 
 # host image at any image hosting service and paste url's here
 # image should be 760, 399
@@ -23,25 +23,24 @@ author: abdul
 
 When you install vim, a usual requirement as with all text editors is
 the ability to copy to/from system clipboard so you can lets say, copy
-something into your vim session from lets say firefox. Or vice versa,
-however copy pasting in terminal editors is not as straight forward as
-with GUI editors. In vim if you want to copy something into an auxilary
-space( anticipating it would be used later, so you can paste from this
-auxilary space ) is achieved by **registers**.
+something into your vim session from firefox or vice versa, however copy
+pasting in terminal editors is not as straight forward as with GUI
+editors. In vim if you want to copy something into an auxilary space
+(anticipating it would be used later, so you can paste from this
+auxilary space) is achieved by **registers**.
 
 The register that represents system clipboard is `+` register. Anything
 that you copy into this register is available in system clipboard.
 
 ## How to use registers to copy/paste
 
-To copy a text into a register, select it in visual mode and press 
+To copy a text into a register, select it in visual mode and press
 `"<register_name>y` to yank the contents into the given register. And to
 paste the contents of a particular register at current position, use
 `"<register_name>p`.
 
-To use system clipboard, you just have to substitute "+" in the above
-commands. 
-
+To use system clipboard, you just have to substitute "+" for register
+name in the above commands. 
 
 ## clipboard support
 
@@ -72,7 +71,11 @@ Now there are 2 solutions to this problem:
 1. Either install **gvim**:
 2. Or compile vim from sources with clipboard support
 
-To install `gvim`:
+Let's see how each of them can be done.
+
+## Install gvim
+
+To install `gvim` run:
 
 On Debian:
 
@@ -86,7 +89,7 @@ On Fedora
 sudo dnf install gvim
 ```
 
-## How to compile vim with clipboard support
+## To compile vim with clipboard support
 
 Below are the simple steps:
 
@@ -155,7 +158,6 @@ Then compile and install with:
 make
 sudo make install
 ```
-
 
 ## Conclusion
 
