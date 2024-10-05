@@ -1,9 +1,9 @@
 ---
 date: 2024-07-08T17:17:28.000Z
 layout: post
-title: "Memory Access Detection using Merkel Trees"
-subtitle: (Concept) In a novel approach, we explore application of Merkel Trees in detection of unauthorised access
-description: A novel approach to detection of unauthorised memory access, which enables one to identify weather a file/memory block was accessed/tampered
+title: "Merkel Trees and computer memory"
+subtitle: Merkel trees are data structures which store hashes insted of data. Can we use them in file systems
+description: Merkel trees are data structures which store hashes insted of data. Can we use them in file systems
 image: https://res.cloudinary.com/dg6zyzzwr/image/upload/c_scale,w_760/v1720599290/merkeltreeindirectorytree_dcftly.jpg
 
 # image should be 760, 399 and optimised should be 380, 200
@@ -33,10 +33,9 @@ access detection.
 Computer memory is usually implemented as a file system. While tampering
 with data is easy to detect, unauthorized access to memory is a more
 complex task, falling within the domain of Intrusion Detection Systems
-(IDS). Most intrusion detection focuses on analyzing network traffic or
-using machine learning techniques to identify suspicious patterns. We
-propose a method that operates within the system, providing robust
-access detection.
+(IDS). Most intrusion detection systems focus on analyzing network traffic or
+using machine learning techniques to identify suspicious patterns, we
+explore if we can employ merkel trees for this task.
 
 <!--
 If unauthorised access to memory cannot be detected, user of the
@@ -54,11 +53,10 @@ hardware.
 If unauthorized memory access cannot be detected, users would never know
 that the system was compromised. Detecting tampered files is
 straightforward: you can hash the contents of a file, and if the hash
-changes (probably without your knowledge), you might conclude that the
-file was tampered with. However, detecting memory access is more
-complicated. Although Linux keeps track of the last access timestamp,
-available via the `stat` command[^stat], it only tracks file accesses
-that use the `read()` syscall[^read].
+changes you might conclude that the file changed. However, detecting
+memory access is more complicated. Although Linux keeps track of the
+last access timestamp, available via the `stat` command[^stat], it only
+tracks file accesses that use the `read()` syscall[^read].
 
 <!--
 In this article, I have described an approach to detect accesses to
@@ -68,12 +66,13 @@ underlying memory, and the decryption be done in software. We will use a
 without user authentication.
 -->
 
+<!--
 In this article, I describe an approach to detect memory access using
 Merkle trees. The approach advocates for encrypting the underlying
 memory, with decryption performed in software. We will use a "polluted"
 flag to identify files or blocks that have been accessed without user
 authentication.
-
+-->
 
 ---
 
