@@ -106,10 +106,10 @@ nodes contain hashes of the underlying data.*
 ## Merkel tree as directory tree
 
 Now, what we want to do is to augment the directory tree as a merkel
-tree. To be exact the [_inode structure_](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/fs/ext4/ext4.h?h=v6.12-rc1#n771). See [_inode doc_](https://www.kernel.org/doc/html/latest/filesystems/ext4/inodes.html) for more background.
+tree. To be exact the [_inode structure_](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/fs/ext4/ext4.h?h=v6.12-rc1#n771) (See [_inode doc_](https://www.kernel.org/doc/html/latest/filesystems/ext4/inodes.html) for more details).
 
-Doing this would make us have hashes for childrens in directory tree. And
-the benefit of that is that whenever the child inodes change, the
+Doing this would make us have hashes for children in directory tree. And
+the benefit of that is whenever the child inodes change, the
 current inode would change. And there's 2 fields that each node would
 contain, the last seen hash (expected hash) of it's child and the
 current hash of the same child. And when the current hash changes to a
@@ -123,19 +123,15 @@ solution to this problem is employing encryption.
 The encryption should be performed in hardware, and the memory access
 system calls should define protocols for decrypting the underlying
 memory. The same system call would update necessary variables of the
-file in question, such as access time.
+file in question, such as access time. The memory access system call
+needs to be implemented so that when one accesses memory, the data is
+decrypted and other [functions](#working) are performed.
 
-Below, is a detailed description.
-
-## Memory Access System Call
-
-The memory access system call needs to be implemented so that when one
-accesses memory, the data is decrypted and other [functions](#working) are
-performed.
+Below is a detailed description.
 
 ## Architecture
 
-Most operating systems' file systems follow a hierarchical structure. We
+File system in most operating systems follow a hierarchical structure. We
 augment this with a Merkle tree, where a node is attached to each file
 in the file system. These nodes form a Merkle tree, where each node
 contains the hash of its children (in the case of non-leaf nodes) or the
