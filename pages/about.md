@@ -11,12 +11,22 @@ permalink: /about/
 
 # About us
 
+I usually write blogs on this website to
+share my knowledge, but i highly encourage
+that you contribute to the website.
+There are comment sections, where you
+can provide your feedback. And you can
+also add articles by forking the
+repo as mentioned in
+[contribute](https://www.thinkersclub.tech/contribute/) page.
+
+<!--
 The thinkers club is an open platform, for sharing scientific works
 including but not limited to,  concept papers, Request For Comment(RFC)
 papers, preprint papers. Sharing of scientific ideas not only attracts
 potential contributors, but also encourages aspiring researchers. The
 website also aims to serve as a platform to share technical knowledge.
-
+-->
 
 <!--
 # Future Roadmap
