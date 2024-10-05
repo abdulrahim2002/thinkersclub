@@ -19,8 +19,8 @@ menu:
   #   url: /contact
   - title: Contribute # add a contribute page so users can add their articles
     url: /contribute
-  - title: Privacy Statement
-    url: /privacy
+#  - title: Privacy Statement
+#    url: /privacy
   - title: Feed
     url: /feed.xml
 
