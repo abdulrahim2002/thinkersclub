@@ -109,10 +109,5 @@ Resolve merge conflicts (if any).
 To check, ensure that your pull request appears in, [issues](https://github.com/abdulrahim2002/thinkersclub/pulls).
 
 
-Voillaa!! you made it. Contact me, so i can review and accept your changes.
-
-In case you have any doubts, please feel free to reach out at abdulrahimhere[at]yahoo.com
-
-
 ### Thanks for reading
 
