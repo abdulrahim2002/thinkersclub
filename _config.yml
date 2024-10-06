@@ -21,6 +21,8 @@ menu:
     url: /contribute
 #  - title: Privacy Statement
 #    url: /privacy
+  - title: Resume
+    url: /assets/documents/resume.pdf
   - title: Feed
     url: /feed.xml
 
