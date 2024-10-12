@@ -29,8 +29,8 @@ for their energy efficiency[^efficiency] and have recently found
 applications in the server space[^armserver]. 
 
 As someone who enjoys exploring the full potential of devices, I
-embarked on a journey to discover how I could leverage the phone for
-programming and development tasks.
+embarked on a journey to discover how I could leverage the full
+potential of smartphones.
 
 <!--
 So, I had a phone lying around for quite a while, and I was thinking how
