@@ -18,7 +18,35 @@ author: abdulrahim
 
 ## Introduction
 
-So, I had a phone lying around for quite a while, and I was thinking how could I make use of it. It was a Oneplus 5 pro, and what fascinates me is that it has Qualcomm® Snapdragon™ 855, with 12 GB RAM and 256 GB storage. Yes, it has more ram than my computer. Then i began to think, given the performance of phones nowadays, why cant we use phones as servers, which led me into a refreshing journey of phones. Phones have ARM based processors and they use Android, which is based on linux kernel. ARM processors are known for their power efficiency[^efficiency] and recently they have made their way into server space[^armserver]. Apple is also pushing for ARM based computers with its m1 chip. So, naturally as a person who enjoyes exploiting devices to their full potential, I began to explore ways in which I could use the phone for programming and development purposes.
+I had an unused phone lying around for some time, and I began
+contemplating how I could repurpose it. This led me to reflect on the
+impressive performance of modern smartphones and consider whether they
+could be utilized as servers.
+
+Smartphones are equipped with ARM-based processors and run on Android,
+which is itself built on the Linux kernel. ARM processors are renowned
+for their energy efficiency[^efficiency] and have recently found
+applications in the server space[^armserver]. 
+
+As someone who enjoys exploring the full potential of devices, I
+embarked on a journey to discover how I could leverage the phone for
+programming and development tasks.
+
+<!--
+So, I had a phone lying around for quite a while, and I was thinking how
+could I make use of it. It was a Oneplus 5 pro, and what fascinates me
+is that it has Qualcomm® Snapdragon™ 855, with 12 GB RAM and 256 GB
+storage. Yes, it has more ram than my computer. Then i began to think,
+given the performance of phones nowadays, why cant we use phones as
+servers, which led me into a refreshing journey of phones. Phones have
+ARM based processors and they use Android, which is based on linux
+kernel. ARM processors are known for their power efficiency[^efficiency]
+and recently they have made their way into server space[^armserver].
+Apple is also pushing for ARM based computers with its m1 chip. So,
+naturally as a person who enjoyes exploiting devices to their full
+potential, I began to explore ways in which I could use the phone for
+programming and development purposes.
+-->
 
 ## Setup
 
