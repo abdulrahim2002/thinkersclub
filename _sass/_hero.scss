@@ -53,9 +53,9 @@
       font-size: rem(40px);
       color: #000;
       text-shadow: 1px 1px 2px rgba(127, 127, 127, 0.7);
-      margin: rem(5px) 0;
+      margin: 0 0 rem(20px) rem(80px);
 
-      -webkit-text-stroke: 0.1px white; /* or any other contrasting color */
+      -webkit-text-stroke: 0.1px white;
       width: 30%;
       float: left; // Align the title to the left
 
