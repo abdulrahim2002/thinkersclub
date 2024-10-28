@@ -24,7 +24,7 @@ menu:
   - title: Resume
     url: /assets/documents/resume.pdf
   - title: My gpg key
-    url: /assets/documents/gpg
+    url: /assets/documents/gpg.txt
   - title: Feed
     url: /feed.xml
 
