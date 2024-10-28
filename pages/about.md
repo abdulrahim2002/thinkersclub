@@ -17,16 +17,13 @@ feedback and engage in constructive discussion. You can also add
 articles by forking the repo as mentioned in
 [contribute](https://www.thinkersclub.tech/contribute/) page.
 
-You can send me an encrypted message using my [public key](/assets/documents/gpg.txt) 
-
+You can send me a message by using my [public key](/assets/documents/gpg.txt):
 ```
 curl -s "https://www.thinkersclub.tech/assets/documents/gpg.txt" | gpg
 -se --always-trust --yes -o <outputfile> --recipient-file /dev/stdin
 <inputfile>
 ```
-
-or use simpler method using [opengpg key](https://keys.openpgp.org/search?q=abdul.rahim%40myyahoo.com)
-
+or use my [hosted key](https://keys.openpgp.org/search?q=abdul.rahim%40myyahoo.com)
 ```
 gpg -se -r abdul.rahim@myyahoo.com <inputfile>
 ```
