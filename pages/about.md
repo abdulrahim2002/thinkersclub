@@ -11,15 +11,18 @@ permalink: /about/
 
 # About us
 
-I usually write blogs on this website to
-share my knowledge, but i highly encourage
-that you contribute to the website.
-There are comment sections, where you
-can provide your feedback. And you can
-also add articles by forking the
-repo as mentioned in
+I write blogs on this website. I encourage that you contribute to the
+website by utilizing the comment sections, where you can provide your
+feedback and engage in constructive discussion. You can also add
+articles by forking the repo as mentioned in
 [contribute](https://www.thinkersclub.tech/contribute/) page.
 
+
+You can send me an encrypted message using [my public
+key](/assets/documents/gpg.txt) or [hosted key](https://keys.openpgp.org/search?q=abdul.rahim%40myyahoo.com) by:
+```
+gpg -s -e <filename> -r abdul.rahim@myyahoo.com
+```
 <!--
 The thinkers club is an open platform, for sharing scientific works
 including but not limited to,  concept papers, Request For Comment(RFC)
