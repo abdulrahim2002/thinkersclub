@@ -33,7 +33,7 @@ Linux Kernel and how you can too.
 
 Development in the Kernel happens on the Linux Kernel Mailing List
 (LKML). Linux is an open-source kernel, and anyone can contribute to it.
-You just have to send your patches (which are nothing but git diff
+You just have to send your patches (which are nothing but `git diff`
 rebranded as an email). Then, if your contribution is useful/required,
 some experienced developers will ask questions about what you are trying
 to do and why. You need to be there explaining what you are doing. Don’t
