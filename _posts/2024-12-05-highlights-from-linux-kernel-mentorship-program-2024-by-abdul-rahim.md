@@ -59,21 +59,23 @@ Kernel developers have always been like an _enigma_ for me, they always
 seemed to be doing something really cool and they seemed so smart. I
 once watched [_this video_](https://www.youtube.com/watch?v=KSs0v2Fmnhc)
 of a guy doing kernel and it got me interested in the kernel. Also, in
-my second semester, I got hold of a book called The C Programming
-Language.  This book made me fall in love with C programming. The kind
+my second semester, I got hold of a book called The ___C Programming
+Language___.  This book made me fall in love with C programming. The kind
 of control that C provides is really cool. Unfortunately, it is this
 power that, when not used with great responsibility, opens up a lot of
 bugs.
 
 I am actually not a long-time Linux user. In fact, I was introduced to
 it just this year. The moment I got hold of it, everything just came
-together. I previously used Windows, and I was so confounded about so
-many things. See, Windows has this habit of hiding away everything from
-the user and making features that work, so the user is left alone to
-troubleshoot a system that even Microsoft does not understand. So, I
-wasted a lot of time on Windows.
+together. All my knowledge, my model of how the computer works,
+everything suddenly started making sense. I previously used Windows, and
+I was so confounded about so many things. Windows has this habit of
+hiding away everything from the user and making features that do not
+work, so the user is left alone to troubleshoot a system that even
+Microsoft does not understand itself. So, I wasted a lot of time on
+Windows.
 
-While I worked on the Kernel, I read a book called Linux Device Drivers.
+While I worked on the Kernel, I read a book called ___Linux Device Drivers___.
 It is written by seasoned kernel developers, and it improved my
 understanding of the kernel a lot. I would highly recommend it to anyone
 who is trying to write drivers or just improve their understanding of
