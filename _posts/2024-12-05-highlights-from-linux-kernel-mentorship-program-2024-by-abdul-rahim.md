@@ -18,6 +18,130 @@ tags:
 author: abdulrahim
 ---
 
+# Introduction  
+Linux is the kernel that powers the modern computing world. It’s everywhere—from all the top 500 supercomputers running Linux, to over two-thirds of mobile phones using it, and more than 95% of servers relying on it. Impressive, right? But this blog isn’t about *why* Linux dominates the tech world; it’s about how I started contributing to the Linux Kernel—and how you can too.
+
+---
+
+## How Kernel Development Works  
+
+
+Kernel development thrives on the Linux Kernel Mailing List (LKML), the
+nerve center of Linux’s open-source ecosystem. The beauty of open
+source? Anyone can contribute. Your task is to send patches (essentially
+the output of `git diff` refurbushed into an email).  
+
+If your patch solves a real problem or adds value, experienced
+developers will jump in with questions about your intent and rationale.
+Here’s a pro tip: don’t explain the *how* of your code; let the code
+speak for itself. Instead, focus on explaining *why* your change is
+needed.  
+
+The LKML community is incredibly supportive -- they’ll critique your code,
+point out mistakes, and suggest improvements. Sure, it might feel
+overwhelming initially, but resources like the **LFD103** course can
+guide you through the basics: generating patches, submitting them to
+LKML, compiling, and booting the kernel.  
+
+For me, just setting up my mail client and understanding LKML
+discussions took about a month. But once you clear these initial
+hurdles, things get easier. If you’re struggling, feel free to check out
+my notes—they might save you some time.
+
+---
+
+## My Background  
+
+For years, kernel developers seemed like magicians to me—doing
+impossibly cool things with computers. My fascination started after I
+stumbled upon a video of someone working on the kernel. It was
+mesmerizing!  
+
+In my second semester, I discovered the book *The C Programming
+Language*, and it sparked my love for C. The control C offers is
+unmatched, but it comes with its fair share of challenges—bugs galore!  
+
+Surprisingly, I wasn’t a Linux user until recently. When I finally
+switched from Windows to Linux, everything just *clicked*. Concepts that
+once felt abstract suddenly made sense. On Windows, troubleshooting
+often felt like solving a mystery even Microsoft couldn’t decode. On
+Linux, it felt like someone handed me the keys to the entire system.  
+
+While working on kernel contributions, I read *Linux Device Drivers*, a
+book authored by seasoned kernel developers. It gave me a deeper
+understanding of the kernel’s inner workings. If you’re serious about
+kernel development or writing drivers, this book is a must-read.
+
+---
+
+## What to Contribute  
+
+The hardest part of contributing to the Linux Kernel is figuring out
+*what* to work on. The kernel is vast—there’s everything from GPU
+drivers to network stack development.  
+
+Since the kernel’s primary job is managing hardware, driver development
+is a hotspot of activity. New devices constantly hit the market, and
+they need drivers. If you have an electronics background and access to
+hardware, driver development is an excellent starting point.  
+
+If hardware isn’t your thing (like in my case), here are some
+alternatives:  
+
+- **kselftest**: A testing framework for kernel functionality.  
+- **Core subsystems**: The backbone of the kernel—a great way to learn
+  the essentials.  
+- **syzbot reports**: A kernel fuzzer that uncovers bugs by feeding the
+  kernel random data. These reports are a goldmine for learning about
+common mistakes.  
+
+Another beginner-friendly option is upgrading deprecated APIs. These
+updates are highly appreciated because they improve the kernel’s
+maintainability and security. It’s not always a simple
+find-and-replace—you’ll need to understand the code—but it’s a rewarding
+way to start.  
+
+And don’t underestimate **fixing spelling and grammar errors** in the
+documentation or comments. While it might sound trivial, it’s a
+fantastic way to learn the workflow: creating patches, submitting them,
+and receiving feedback. Tools like `codespell` can help you automate
+finding these errors.  
+
+My first-ever patch was a simple typo fix, but I made the classic rookie
+mistake of introducing two changes while documenting only one. Lesson
+learned!  
+
+Once you start contributing, you’ll notice issues everywhere. Even just
+following discussions on LKML can teach you a ton about how seasoned
+developers think and work.
+
+---
+
+## Conclusion  
+
+Kernel development might seem intimidating at first, but trust me, it’s
+worth the effort. You’ll not only become a stronger developer but also
+gain a deep understanding of how computers work. You’ll build expertise
+in both kernel and userspace development, and your Git skills will level
+up immensely—a must-have for any programmer.  
+
+The learning opportunities in kernel development are unparalleled, often
+rivaling (or even exceeding) those at top tech companies. So if you’re
+considering it, don’t hesitate—dive in! You might be surprised by how
+much you’ll grow.
+
+Good Luck!
+
+
+## References
+
+[^1]: [top500.org](https://www.stackscale.com/blog/most-powerful-supercomputers-linux/)
+[^2]: [statcounter.com](https://gs.statcounter.com/os-market-share/mobile/worldwide)
+[^3]: [zdnet.com](https://www.zdnet.com/article/linux-has-over-3-of-the-desktop-market-its-more-complicated-than-that/)
+
+
+<!--j
+
 ## Introduction
 
 Linux is a 
@@ -151,3 +275,5 @@ Good luck!
 [^1]: [top500.org](https://www.stackscale.com/blog/most-powerful-supercomputers-linux/)
 [^2]: [statcounter.com](https://gs.statcounter.com/os-market-share/mobile/worldwide)
 [^3]: [zdnet.com](https://www.zdnet.com/article/linux-has-over-3-of-the-desktop-market-its-more-complicated-than-that/)
+
+-->
