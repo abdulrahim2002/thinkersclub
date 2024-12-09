@@ -56,13 +56,14 @@ yourself should you need them.
 ## My Background
 
 Kernel developers have always been like an _enigma_ for me, they always
-seemed to be doing somthing really cool and they seemed so smart. I once
-watched [_this video_](https://www.youtube.com/watch?v=Tc8S87LTSRw) of a
-guy doing kernel and it got me interested in the kernel. Also, in my
-second semester, I got hold of a book called The C Programming Language.
-This book made me fall in love with C programming. The kind of control
-that C provides is really cool. Unfortunately, it is this power that,
-when not used with great responsibility, opens up a lot of bugs.
+seemed to be doing something really cool and they seemed so smart. I
+once watched [_this video_](https://www.youtube.com/watch?v=KSs0v2Fmnhc)
+of a guy doing kernel and it got me interested in the kernel. Also, in
+my second semester, I got hold of a book called The C Programming
+Language.  This book made me fall in love with C programming. The kind
+of control that C provides is really cool. Unfortunately, it is this
+power that, when not used with great responsibility, opens up a lot of
+bugs.
 
 I am actually not a long-time Linux user. In fact, I was introduced to
 it just this year. The moment I got hold of it, everything just came
