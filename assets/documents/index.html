@@ -1,0 +1,102 @@
+<!--
+Using the code in this sample, it is possible to tell weather the
+tab was changed or not.
+
+https://www.tutorialspoint.com/how-to-check-whether-or-not-a-browser-tab-is-currently-active-using-javascript#:~:text=Using%20the%20page%20visibility%20API,gets%20triggered%20in%20the%20document.
+
+
+	-->
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Window Active Detection</title>
+  <style>
+    body {
+      transition: background-color 0.5s ease;
+      padding: 20px;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+
+	   <h3>Using the <i> onblur and onfocus method </i> to detect if tab is active or not in the browser using JavaScript.</h3>
+   <div id = "output"> </div><br>
+   <button onclick = "callFunc()"> Click to show text </button>
+   <script>
+      let output = document.getElementById("output");
+      function callFunc() {
+         output.innerHTML += "You have clicked the button! </br>";
+      }
+
+      // The function will invoke when the user changes the tab
+      window.onblur = function () {
+         output.innerHTML += "browser tab is changed </br>";
+      };
+
+      // If users come back to the current tab again, the below function will invoke
+      window.onfocus = function () {
+         output.innerHTML += "Browser tab is again active! </br>";
+      };
+   </script>
+
+  <h1>Window Active/Inactive Detection</h1>
+  <p>This webpage will change its background color when the window is active or inactive.</p>
+
+	<script>
+    let timeoutID;
+
+    // Function to change the background color based on window visibility
+    function handleVisibilityChange() {
+      // Clear any existing timeout to reset the color change
+      clearTimeout(timeoutID);
+      
+      // Check if the document is hidden
+      if (document.hidden) {
+        // Window is not active, delay the color change
+        timeoutID = setTimeout(() => {
+          document.body.style.backgroundColor = '#f0f0f0'; // Inactive color (light grey)
+        }, 5000); // Timeout delay of 1 second (1000ms)
+      } else {
+        // Window is active, delay the color change
+        timeoutID = setTimeout(() => {
+          document.body.style.backgroundColor = '#d4f0d4'; // Active color (light green)
+        }, 5000); // Timeout delay of 1 second (1000ms)
+      }
+    }
+
+    // Listen for visibility change events
+    document.addEventListener('visibilitychange', handleVisibilityChange);
+
+    // Initial check to set the color when the page is first loaded
+    handleVisibilityChange();
+  </script>
+
+
+
+
+	<script>
+
+// Log keypress events
+document.addEventListener('keydown', function(event) {
+    console.log(`Key pressed: ${event.key}`);
+});
+
+// Log mouse movement events
+document.addEventListener('mousemove', function(event) {
+    console.log(`Mouse moved: X = ${event.clientX}, Y = ${event.clientY}`);
+});
+
+</script>
+
+</body>
+</html>
+
+
+
