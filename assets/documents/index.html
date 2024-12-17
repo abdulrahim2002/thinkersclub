@@ -115,6 +115,91 @@ document.addEventListener('mousemove', function(event) {
 
 </script>
 
+<script>
+function detectVM() {
+    let isVM = false;
+    let messages = [];
+
+    console.log("===== VM Detection Script Start =====");
+
+    // 1. Log Screen Resolution
+    const screenWidth = window.screen.width;
+    const screenHeight = window.screen.height;
+    console.log(`Screen Resolution: ${screenWidth}x${screenHeight}`);
+    if (screenWidth <= 1024 && screenHeight <= 768) {
+        messages.push("Low screen resolution detected (common in VMs).");
+        isVM = true;
+    }
+
+    // 2. Log Hardware Concurrency (CPU Cores)
+    const cores = navigator.hardwareConcurrency || "Not available";
+    console.log(`CPU Cores (Hardware Concurrency): ${cores}`);
+    if (cores && cores <= 2) {
+        messages.push(`Low CPU cores detected (${cores} cores, common in VMs).`);
+        isVM = true;
+    }
+
+    // 3. Log User-Agent String
+    const userAgent = navigator.userAgent;
+    console.log(`User-Agent String: ${userAgent}`);
+    if (userAgent.toLowerCase().includes("vmware") || userAgent.toLowerCase().includes("virtualbox")) {
+        messages.push("VM-related keyword found in User-Agent string.");
+        isVM = true;
+    }
+
+    // 4. Log Graphics Renderer (WebGL)
+    try {
+        const canvas = document.createElement('canvas');
+        const gl = canvas.getContext('webgl') || canvas.getContext('experimental-webgl');
+        if (gl) {
+            const debugInfo = gl.getExtension('WEBGL_debug_renderer_info');
+            const renderer = gl.getParameter(debugInfo.UNMASKED_RENDERER_WEBGL);
+            console.log(`GPU Renderer: ${renderer}`);
+            if (renderer && (renderer.toLowerCase().includes("virtualbox") || renderer.toLowerCase().includes("vmware"))) {
+                messages.push(`GPU Renderer suggests VM: ${renderer}`);
+                isVM = true;
+            }
+        } else {
+            console.log("WebGL not supported.");
+        }
+    } catch (e) {
+        console.log("WebGL detection failed (possibly restricted by VM).");
+        messages.push("WebGL not available.");
+        isVM = true;
+    }
+
+    // 5. Log Performance Test (Stress Test)
+    const start = performance.now();
+    for (let i = 0; i < 1e7; i++) {} // Perform a small stress test
+    const duration = performance.now() - start;
+    console.log(`Performance Test Duration: ${duration.toFixed(2)} ms`);
+    if (duration > 500) {
+        messages.push(`Performance lag detected (${duration.toFixed(2)} ms, common in VMs).`);
+        isVM = true;
+    }
+
+    // Final Summary
+    console.log("===== Detection Summary =====");
+    if (isVM) {
+        console.warn("Potential VM Detected:");
+        messages.forEach(msg => console.warn(`- ${msg}`));
+    } else {
+        console.log("No VM detected based on heuristics.");
+    }
+
+    console.log("===== VM Detection Script End =====");
+
+    return isVM;
+}
+
+// Run the detection
+const result = detectVM();
+console.log(`Final Detection Result: Is this a VM? ${result}`);
+
+
+
+</script>
+
 </body>
 </html>
 
