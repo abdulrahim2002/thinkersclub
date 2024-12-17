@@ -196,6 +196,22 @@ function detectVM() {
 const result = detectVM();
 console.log(`Final Detection Result: Is this a VM? ${result}`);
 
+function detectClockDrift() {
+    const start = Date.now();
+    setTimeout(() => {
+        const end = Date.now();
+        const drift = end - start - 1000; // Expected delay: ~1 second
+        console.log(`Clock Drift: ${drift} ms`);
+        if (drift > 50) {
+            console.warn("Clock drift detected (potential VM).");
+        } else {
+            console.log("Clock timing is stable.");
+        }
+    }, 1000);
+}
+
+detectClockDrift();
+
 
 
 </script>
