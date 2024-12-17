@@ -212,6 +212,23 @@ function detectClockDrift() {
 
 detectClockDrift();
 
+function checkHardwareAcceleration() {
+    const video = document.createElement("video");
+    if (video.canPlayType("video/mp4")) {
+        console.log("Hardware video acceleration seems enabled.");
+    } else {
+        console.warn("Video acceleration not supported (potential VM).");
+    }
+}
+
+checkHardwareAcceleration();
+
+
+console.log("Browser Info:", navigator);
+console.log("Cookies Enabled:", navigator.cookieEnabled);
+console.log("Platform:", navigator.platform);
+console.log("Language:", navigator.language);
+console.log("Storage Available:", window.localStorage ? "Yes" : "No");
 
 
 </script>
