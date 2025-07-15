@@ -50,7 +50,7 @@ future: true
 
 # Advanced Settings
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.thinkersclub.tech" # the base hostname & protocol for your site
+url: "http://abdulrahim.space" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXX" #do not track users
 language: "en"
 categories_folder: category
